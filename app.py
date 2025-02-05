@@ -236,4 +236,4 @@ with gr.Blocks() as interface:
         label="Try with Example Images",
     )
 
-interface.launch(share=True)
+interface.launch()
