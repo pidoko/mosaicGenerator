@@ -228,4 +228,12 @@ with gr.Blocks() as interface:
         outputs=[input_image, tile_size_slider, image_size_slider, database_folder_input]
     )
 
+    # Add Examples Section
+    gr.Examples(
+        examples=examples,
+        inputs=[input_image],
+        outputs=[output_image],
+        label="Try with Example Images",
+    )
+
 interface.launch(share=True)
