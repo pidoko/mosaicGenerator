@@ -202,8 +202,8 @@ def refresh_interface():
 
 # GRADIO INTERFACE
 with gr.Blocks() as interface:
-    gr.Markdown("# 📸 Photomosaic Generator")
-    gr.Markdown("Upload an image, adjust parameters, and generate a photomosaic.")
+    gr.Markdown("Mosaic Generator")
+    gr.Markdown("Upload an image, adjust parameters, and generate a mosaic.")
 
     with gr.Row():
         input_image = gr.Image(type="numpy", label="Upload an Image")
@@ -214,7 +214,7 @@ with gr.Blocks() as interface:
     database_folder_input = gr.Textbox(value=DATABASE_FOLDER, label="Tile Database Path")
 
     generate_button = gr.Button("Generate Mosaic")
-    refresh_button = gr.Button("🔄 Refresh")
+    refresh_button = gr.Button("Refresh")
 
     generate_button.click(
         fn=reconstruct_image,
