@@ -196,21 +196,36 @@ examples = [
     ["scraped_photos/image_1004.jpg"],
 ]
 
-# GRADIO INTERFACE
-interface = gr.Interface(
-    fn=reconstruct_image,
-    inputs=[
-        gr.Image(type="numpy", label="Upload an Image"),
-        gr.Slider(minimum=1, maximum=50, value=TILE_SIZE, step=1, label="Tile Size (px)"),
-        gr.Slider(minimum=100, maximum=1000, value=IMAGE_SIZE, step=50, label="Image Size (px)"),
-        gr.Textbox(value=DATABASE_FOLDER, label="Tile Database Path")
-    ],
-    outputs=gr.Image(type="numpy", label="Mosaic Output"),
-    title="Photomosaic Generator",
-    description="Upload an image, adjust parameters, and generate a photomosaic.",
-    examples=examples,
-    live=True
-)
+def refresh_interface():
+    """Resets the UI without clearing input fields."""
+    return gr.update(), gr.update(), gr.update(), gr.update()
 
-if __name__ == "__main__":
-    interface.launch(share=True)
+# GRADIO INTERFACE
+with gr.Blocks() as interface:
+    gr.Markdown("# 📸 Photomosaic Generator")
+    gr.Markdown("Upload an image, adjust parameters, and generate a photomosaic.")
+
+    with gr.Row():
+        input_image = gr.Image(type="numpy", label="Upload an Image")
+        output_image = gr.Image(type="numpy", label="Mosaic Output")
+
+    tile_size_slider = gr.Slider(minimum=2, maximum=50, value=TILE_SIZE, step=1, label="Tile Size (px)")
+    image_size_slider = gr.Slider(minimum=100, maximum=1000, value=IMAGE_SIZE, step=50, label="Image Size (px)")
+    database_folder_input = gr.Textbox(value=DATABASE_FOLDER, label="Tile Database Path")
+
+    generate_button = gr.Button("Generate Mosaic")
+    refresh_button = gr.Button("🔄 Refresh")
+
+    generate_button.click(
+        fn=reconstruct_image,
+        inputs=[input_image, tile_size_slider, image_size_slider, database_folder_input],
+        outputs=[output_image]
+    )
+
+    refresh_button.click(
+        fn=refresh_interface,
+        inputs=[],
+        outputs=[input_image, tile_size_slider, image_size_slider, database_folder_input]
+    )
+
+interface.launch(share=True)
