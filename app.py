@@ -191,9 +191,9 @@ def reconstruct_image(input_img, tile_size, image_size, database_folder):
 
 
 examples = [
-    ["scraped_photos/image_10.jpg"],  # Preloaded image files
-    ["scraped_photos/image_12.jpg"],
-    ["scraped_photos/image_14.jpg"],
+    ["scraped_photos/image_1002.jpg"],  # Preloaded image files
+    ["scraped_photos/image_1003.jpg"],
+    ["scraped_photos/image_1004.jpg"],
 ]
 
 # GRADIO INTERFACE
