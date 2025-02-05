@@ -1,0 +1,55 @@
+2025-02-03 19:17:11,702 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 30847.61 (Lower is better)
+Structural Similarity Index (SSIM): 0.037 (Closer to 1 is better)
+Histogram Similarity: 0.356 (Closer to 1 is better)
+
+2025-02-03 19:17:45,086 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 30847.61 (Lower is better)
+Structural Similarity Index (SSIM): 0.037 (Closer to 1 is better)
+Histogram Similarity: 0.356 (Closer to 1 is better)
+
+2025-02-04 01:45:19,956 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 9234.54 (Lower is better)
+Structural Similarity Index (SSIM): 0.302 (Closer to 1 is better)
+Histogram Similarity: 0.850 (Closer to 1 is better)
+
+2025-02-04 01:49:12,218 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 9234.54 (Lower is better)
+Structural Similarity Index (SSIM): 0.302 (Closer to 1 is better)
+Histogram Similarity: 0.850 (Closer to 1 is better)
+
+2025-02-04 01:52:43,272 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 3078.18 (Lower is better)
+Structural Similarity Index (SSIM): 0.302 (Closer to 1 is better)
+Histogram Similarity: 0.850 (Closer to 1 is better)
+
+2025-02-04 01:53:48,296 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 3078.18 (Lower is better)
+Structural Similarity Index (SSIM): 0.299 (Closer to 1 is better)
+Histogram Similarity: 0.850 (Closer to 1 is better)
+
+2025-02-04 01:54:45,231 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 3078.18 (Lower is better)
+Structural Similarity Index (SSIM): 0.299 (Closer to 1 is better)
+Histogram Similarity: 117.482 (Closer to 1 is better)
+
+2025-02-04 01:59:49,317 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 3078.18 (Lower is better)
+Structural Similarity Index (SSIM): 0.299 (Closer to 1 is better)
+Histogram Similarity: 117.482 (Closer to 1 is better)
+
+2025-02-04 02:02:09,927 - INFO - 
+Image Similarity Analysis
+Mean Squared Error (MSE): 3078.18 (Lower is better)
+Structural Similarity Index (SSIM): 0.299 (Closer to 1 is better)
+Histogram Similarity: 117.482 (Closer to 1 is better)
+
+2025-02-04 02:02:09,929 - INFO - Similarity results logged to similarity_results.csv

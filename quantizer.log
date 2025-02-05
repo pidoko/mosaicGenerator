@@ -1,0 +1,1267 @@
+2025-02-03 17:55:54,903 - INFO - Colour Quantizer script started.
+2025-02-03 17:55:54,903 - INFO - Processing images from scraped_photos, saving to quantized_photos
+2025-02-03 17:55:59,420 - INFO - Saved quantized image: quantized_photos\image_1.jpg
+2025-02-03 17:56:01,719 - INFO - Saved quantized image: quantized_photos\image_10.jpg
+2025-02-03 17:56:03,640 - INFO - Saved quantized image: quantized_photos\image_100.jpg
+2025-02-03 17:56:05,398 - INFO - Saved quantized image: quantized_photos\image_1000.jpg
+2025-02-03 17:56:07,239 - INFO - Saved quantized image: quantized_photos\image_1001.jpg
+2025-02-03 17:56:10,688 - INFO - Saved quantized image: quantized_photos\image_101.jpg
+2025-02-03 17:56:11,913 - INFO - Saved quantized image: quantized_photos\image_102.jpg
+2025-02-03 17:56:13,566 - INFO - Saved quantized image: quantized_photos\image_103.jpg
+2025-02-03 17:56:15,857 - INFO - Saved quantized image: quantized_photos\image_104.jpg
+2025-02-03 17:56:17,138 - INFO - Saved quantized image: quantized_photos\image_105.jpg
+2025-02-03 17:56:18,958 - INFO - Saved quantized image: quantized_photos\image_106.jpg
+2025-02-03 17:56:21,478 - INFO - Saved quantized image: quantized_photos\image_107.jpg
+2025-02-03 17:56:22,787 - INFO - Saved quantized image: quantized_photos\image_108.jpg
+2025-02-03 17:56:23,718 - INFO - Saved quantized image: quantized_photos\image_109.jpg
+2025-02-03 17:56:24,886 - INFO - Saved quantized image: quantized_photos\image_11.jpg
+2025-02-03 17:56:26,356 - INFO - Saved quantized image: quantized_photos\image_110.jpg
+2025-02-03 17:56:28,407 - INFO - Saved quantized image: quantized_photos\image_111.jpg
+2025-02-03 17:56:30,029 - INFO - Saved quantized image: quantized_photos\image_112.jpg
+2025-02-03 17:56:31,355 - INFO - Saved quantized image: quantized_photos\image_113.jpg
+2025-02-03 17:56:34,817 - INFO - Saved quantized image: quantized_photos\image_114.jpg
+2025-02-03 17:56:37,789 - INFO - Saved quantized image: quantized_photos\image_115.jpg
+2025-02-03 17:56:39,571 - INFO - Saved quantized image: quantized_photos\image_116.jpg
+2025-02-03 17:56:45,250 - INFO - Saved quantized image: quantized_photos\image_117.jpg
+2025-02-03 17:56:47,764 - INFO - Saved quantized image: quantized_photos\image_118.jpg
+2025-02-03 17:56:49,923 - INFO - Saved quantized image: quantized_photos\image_119.jpg
+2025-02-03 17:56:52,318 - INFO - Saved quantized image: quantized_photos\image_12.jpg
+2025-02-03 17:56:54,425 - INFO - Saved quantized image: quantized_photos\image_120.jpg
+2025-02-03 17:56:56,600 - INFO - Saved quantized image: quantized_photos\image_121.jpg
+2025-02-03 17:56:59,402 - INFO - Saved quantized image: quantized_photos\image_122.jpg
+2025-02-03 17:57:01,304 - INFO - Saved quantized image: quantized_photos\image_123.jpg
+2025-02-03 17:57:03,630 - INFO - Saved quantized image: quantized_photos\image_124.jpg
+2025-02-03 17:57:04,511 - INFO - Saved quantized image: quantized_photos\image_125.jpg
+2025-02-03 17:57:06,517 - INFO - Saved quantized image: quantized_photos\image_126.jpg
+2025-02-03 17:57:07,919 - INFO - Saved quantized image: quantized_photos\image_127.jpg
+2025-02-03 17:57:13,777 - INFO - Saved quantized image: quantized_photos\image_128.jpg
+2025-02-03 17:57:16,222 - INFO - Saved quantized image: quantized_photos\image_129.jpg
+2025-02-03 17:57:17,248 - INFO - Saved quantized image: quantized_photos\image_13.jpg
+2025-02-03 17:57:19,243 - INFO - Saved quantized image: quantized_photos\image_130.jpg
+2025-02-03 17:57:24,557 - INFO - Saved quantized image: quantized_photos\image_131.jpg
+2025-02-03 17:57:28,207 - INFO - Saved quantized image: quantized_photos\image_132.jpg
+2025-02-03 17:57:30,349 - INFO - Saved quantized image: quantized_photos\image_133.jpg
+2025-02-03 17:57:32,784 - INFO - Saved quantized image: quantized_photos\image_134.jpg
+2025-02-03 17:57:38,199 - INFO - Saved quantized image: quantized_photos\image_135.jpg
+2025-02-03 17:57:39,185 - INFO - Saved quantized image: quantized_photos\image_136.jpg
+2025-02-03 17:57:42,881 - INFO - Saved quantized image: quantized_photos\image_137.jpg
+2025-02-03 17:57:45,999 - INFO - Saved quantized image: quantized_photos\image_138.jpg
+2025-02-03 17:57:50,566 - INFO - Saved quantized image: quantized_photos\image_139.jpg
+2025-02-03 17:57:52,009 - INFO - Saved quantized image: quantized_photos\image_14.jpg
+2025-02-03 17:57:54,297 - INFO - Saved quantized image: quantized_photos\image_140.jpg
+2025-02-03 17:57:57,423 - INFO - Saved quantized image: quantized_photos\image_141.jpg
+2025-02-03 17:58:00,340 - INFO - Saved quantized image: quantized_photos\image_142.jpg
+2025-02-03 17:58:01,728 - INFO - Saved quantized image: quantized_photos\image_143.jpg
+2025-02-03 17:58:04,567 - INFO - Saved quantized image: quantized_photos\image_144.jpg
+2025-02-03 17:58:08,589 - INFO - Saved quantized image: quantized_photos\image_145.jpg
+2025-02-03 17:58:13,286 - INFO - Saved quantized image: quantized_photos\image_146.jpg
+2025-02-03 17:58:15,010 - INFO - Saved quantized image: quantized_photos\image_147.jpg
+2025-02-03 17:58:17,636 - INFO - Saved quantized image: quantized_photos\image_148.jpg
+2025-02-03 17:58:22,931 - INFO - Saved quantized image: quantized_photos\image_149.jpg
+2025-02-03 17:58:24,650 - INFO - Saved quantized image: quantized_photos\image_15.jpg
+2025-02-03 17:58:28,070 - INFO - Saved quantized image: quantized_photos\image_150.jpg
+2025-02-03 17:58:31,318 - INFO - Saved quantized image: quantized_photos\image_151.jpg
+2025-02-03 17:58:34,684 - INFO - Saved quantized image: quantized_photos\image_152.jpg
+2025-02-03 17:58:36,408 - INFO - Saved quantized image: quantized_photos\image_153.jpg
+2025-02-03 17:58:43,514 - INFO - Saved quantized image: quantized_photos\image_154.jpg
+2025-02-03 17:58:46,077 - INFO - Saved quantized image: quantized_photos\image_155.jpg
+2025-02-03 17:58:49,804 - INFO - Saved quantized image: quantized_photos\image_156.jpg
+2025-02-03 17:58:53,375 - INFO - Saved quantized image: quantized_photos\image_157.jpg
+2025-02-03 17:58:55,875 - INFO - Saved quantized image: quantized_photos\image_158.jpg
+2025-02-03 17:58:59,131 - INFO - Saved quantized image: quantized_photos\image_159.jpg
+2025-02-03 17:59:03,868 - INFO - Saved quantized image: quantized_photos\image_16.jpg
+2025-02-03 17:59:05,558 - INFO - Saved quantized image: quantized_photos\image_160.jpg
+2025-02-03 17:59:08,967 - INFO - Saved quantized image: quantized_photos\image_161.jpg
+2025-02-03 17:59:10,511 - INFO - Saved quantized image: quantized_photos\image_162.jpg
+2025-02-03 17:59:13,641 - INFO - Saved quantized image: quantized_photos\image_163.jpg
+2025-02-03 17:59:15,331 - INFO - Saved quantized image: quantized_photos\image_164.jpg
+2025-02-03 17:59:17,397 - INFO - Saved quantized image: quantized_photos\image_165.jpg
+2025-02-03 17:59:19,364 - INFO - Saved quantized image: quantized_photos\image_166.jpg
+2025-02-03 17:59:20,906 - INFO - Saved quantized image: quantized_photos\image_167.jpg
+2025-02-03 17:59:23,617 - INFO - Saved quantized image: quantized_photos\image_168.jpg
+2025-02-03 17:59:26,336 - INFO - Saved quantized image: quantized_photos\image_169.jpg
+2025-02-03 17:59:30,349 - INFO - Saved quantized image: quantized_photos\image_17.jpg
+2025-02-03 17:59:33,275 - INFO - Saved quantized image: quantized_photos\image_170.jpg
+2025-02-03 17:59:36,698 - INFO - Saved quantized image: quantized_photos\image_171.jpg
+2025-02-03 17:59:39,430 - INFO - Saved quantized image: quantized_photos\image_172.jpg
+2025-02-03 17:59:44,324 - INFO - Saved quantized image: quantized_photos\image_173.jpg
+2025-02-03 17:59:46,604 - INFO - Saved quantized image: quantized_photos\image_174.jpg
+2025-02-03 17:59:48,256 - INFO - Saved quantized image: quantized_photos\image_175.jpg
+2025-02-03 17:59:51,235 - INFO - Saved quantized image: quantized_photos\image_176.jpg
+2025-02-03 17:59:56,287 - INFO - Saved quantized image: quantized_photos\image_177.jpg
+2025-02-03 17:59:57,801 - INFO - Saved quantized image: quantized_photos\image_178.jpg
+2025-02-03 18:00:02,057 - INFO - Saved quantized image: quantized_photos\image_179.jpg
+2025-02-03 18:00:06,512 - INFO - Saved quantized image: quantized_photos\image_18.jpg
+2025-02-03 18:00:12,187 - INFO - Saved quantized image: quantized_photos\image_180.jpg
+2025-02-03 18:00:15,815 - INFO - Saved quantized image: quantized_photos\image_181.jpg
+2025-02-03 18:00:21,456 - INFO - Saved quantized image: quantized_photos\image_182.jpg
+2025-02-03 18:00:23,834 - INFO - Saved quantized image: quantized_photos\image_183.jpg
+2025-02-03 18:00:30,356 - INFO - Saved quantized image: quantized_photos\image_184.jpg
+2025-02-03 18:00:31,900 - INFO - Saved quantized image: quantized_photos\image_185.jpg
+2025-02-03 18:00:33,617 - INFO - Saved quantized image: quantized_photos\image_186.jpg
+2025-02-03 18:00:35,328 - INFO - Saved quantized image: quantized_photos\image_187.jpg
+2025-02-03 18:00:36,953 - INFO - Saved quantized image: quantized_photos\image_188.jpg
+2025-02-03 18:00:38,916 - INFO - Saved quantized image: quantized_photos\image_189.jpg
+2025-02-03 18:00:43,775 - INFO - Saved quantized image: quantized_photos\image_19.jpg
+2025-02-03 18:00:51,556 - INFO - Saved quantized image: quantized_photos\image_190.jpg
+2025-02-03 18:00:53,853 - INFO - Saved quantized image: quantized_photos\image_191.jpg
+2025-02-03 18:00:56,107 - INFO - Saved quantized image: quantized_photos\image_192.jpg
+2025-02-03 18:00:58,532 - INFO - Saved quantized image: quantized_photos\image_193.jpg
+2025-02-03 18:01:01,771 - INFO - Saved quantized image: quantized_photos\image_194.jpg
+2025-02-03 18:01:05,838 - INFO - Saved quantized image: quantized_photos\image_195.jpg
+2025-02-03 18:01:09,944 - INFO - Saved quantized image: quantized_photos\image_196.jpg
+2025-02-03 18:01:14,337 - INFO - Saved quantized image: quantized_photos\image_197.jpg
+2025-02-03 18:01:17,184 - INFO - Saved quantized image: quantized_photos\image_198.jpg
+2025-02-03 18:01:19,487 - INFO - Saved quantized image: quantized_photos\image_199.jpg
+2025-02-03 18:01:22,236 - INFO - Saved quantized image: quantized_photos\image_2.jpg
+2025-02-03 18:01:25,326 - INFO - Saved quantized image: quantized_photos\image_20.jpg
+2025-02-03 18:01:29,662 - INFO - Saved quantized image: quantized_photos\image_200.jpg
+2025-02-03 18:01:32,890 - INFO - Saved quantized image: quantized_photos\image_201.jpg
+2025-02-03 18:01:37,743 - INFO - Saved quantized image: quantized_photos\image_202.jpg
+2025-02-03 18:01:41,081 - INFO - Saved quantized image: quantized_photos\image_203.jpg
+2025-02-03 18:01:47,127 - INFO - Saved quantized image: quantized_photos\image_204.jpg
+2025-02-03 18:01:51,675 - INFO - Saved quantized image: quantized_photos\image_205.jpg
+2025-02-03 18:01:54,005 - INFO - Saved quantized image: quantized_photos\image_206.jpg
+2025-02-03 18:02:01,148 - INFO - Saved quantized image: quantized_photos\image_207.jpg
+2025-02-03 18:02:02,953 - INFO - Saved quantized image: quantized_photos\image_208.jpg
+2025-02-03 18:02:04,663 - INFO - Saved quantized image: quantized_photos\image_209.jpg
+2025-02-03 18:02:07,117 - INFO - Saved quantized image: quantized_photos\image_21.jpg
+2025-02-03 18:02:08,774 - INFO - Saved quantized image: quantized_photos\image_210.jpg
+2025-02-03 18:02:15,311 - INFO - Saved quantized image: quantized_photos\image_211.jpg
+2025-02-03 18:02:19,033 - INFO - Saved quantized image: quantized_photos\image_212.jpg
+2025-02-03 18:02:20,891 - INFO - Saved quantized image: quantized_photos\image_213.jpg
+2025-02-03 18:02:24,801 - INFO - Saved quantized image: quantized_photos\image_214.jpg
+2025-02-03 18:02:29,788 - INFO - Saved quantized image: quantized_photos\image_215.jpg
+2025-02-03 18:02:34,717 - INFO - Saved quantized image: quantized_photos\image_216.jpg
+2025-02-03 18:02:42,089 - INFO - Saved quantized image: quantized_photos\image_217.jpg
+2025-02-03 18:02:49,367 - INFO - Saved quantized image: quantized_photos\image_218.jpg
+2025-02-03 18:02:57,635 - INFO - Saved quantized image: quantized_photos\image_219.jpg
+2025-02-03 18:03:04,658 - INFO - Saved quantized image: quantized_photos\image_22.jpg
+2025-02-03 18:03:06,354 - INFO - Saved quantized image: quantized_photos\image_220.jpg
+2025-02-03 18:03:08,737 - INFO - Saved quantized image: quantized_photos\image_221.jpg
+2025-02-03 18:03:12,297 - INFO - Saved quantized image: quantized_photos\image_222.jpg
+2025-02-03 18:03:13,614 - INFO - Saved quantized image: quantized_photos\image_223.jpg
+2025-02-03 18:03:17,009 - INFO - Saved quantized image: quantized_photos\image_224.jpg
+2025-02-03 18:03:22,239 - INFO - Saved quantized image: quantized_photos\image_225.jpg
+2025-02-03 18:03:24,246 - INFO - Saved quantized image: quantized_photos\image_226.jpg
+2025-02-03 18:03:26,274 - INFO - Saved quantized image: quantized_photos\image_227.jpg
+2025-02-03 18:03:28,026 - INFO - Saved quantized image: quantized_photos\image_228.jpg
+2025-02-03 18:03:34,967 - INFO - Saved quantized image: quantized_photos\image_229.jpg
+2025-02-03 18:03:39,225 - INFO - Saved quantized image: quantized_photos\image_23.jpg
+2025-02-03 18:03:42,286 - INFO - Saved quantized image: quantized_photos\image_230.jpg
+2025-02-03 18:03:47,624 - INFO - Saved quantized image: quantized_photos\image_231.jpg
+2025-02-03 18:03:50,616 - INFO - Saved quantized image: quantized_photos\image_232.jpg
+2025-02-03 18:03:54,445 - INFO - Saved quantized image: quantized_photos\image_233.jpg
+2025-02-03 18:03:56,940 - INFO - Saved quantized image: quantized_photos\image_234.jpg
+2025-02-03 18:04:03,954 - INFO - Saved quantized image: quantized_photos\image_235.jpg
+2025-02-03 18:04:07,865 - INFO - Saved quantized image: quantized_photos\image_236.jpg
+2025-02-03 18:04:10,135 - INFO - Saved quantized image: quantized_photos\image_237.jpg
+2025-02-03 18:04:14,636 - INFO - Saved quantized image: quantized_photos\image_238.jpg
+2025-02-03 18:04:18,265 - INFO - Saved quantized image: quantized_photos\image_239.jpg
+2025-02-03 18:04:22,092 - INFO - Saved quantized image: quantized_photos\image_24.jpg
+2025-02-03 18:04:26,093 - INFO - Saved quantized image: quantized_photos\image_240.jpg
+2025-02-03 18:04:30,688 - INFO - Saved quantized image: quantized_photos\image_241.jpg
+2025-02-03 18:04:32,257 - INFO - Saved quantized image: quantized_photos\image_242.jpg
+2025-02-03 18:04:34,722 - INFO - Saved quantized image: quantized_photos\image_243.jpg
+2025-02-03 18:04:39,194 - INFO - Saved quantized image: quantized_photos\image_244.jpg
+2025-02-03 18:04:40,766 - INFO - Saved quantized image: quantized_photos\image_245.jpg
+2025-02-03 18:04:43,018 - INFO - Saved quantized image: quantized_photos\image_246.jpg
+2025-02-03 18:04:44,459 - INFO - Saved quantized image: quantized_photos\image_247.jpg
+2025-02-03 18:04:47,245 - INFO - Saved quantized image: quantized_photos\image_248.jpg
+2025-02-03 18:04:50,150 - INFO - Saved quantized image: quantized_photos\image_249.jpg
+2025-02-03 18:04:52,010 - INFO - Saved quantized image: quantized_photos\image_25.jpg
+2025-02-03 18:04:54,331 - INFO - Saved quantized image: quantized_photos\image_250.jpg
+2025-02-03 18:04:56,266 - INFO - Saved quantized image: quantized_photos\image_251.jpg
+2025-02-03 18:04:59,382 - INFO - Saved quantized image: quantized_photos\image_252.jpg
+2025-02-03 18:05:01,282 - INFO - Saved quantized image: quantized_photos\image_253.jpg
+2025-02-03 18:05:03,288 - INFO - Saved quantized image: quantized_photos\image_254.jpg
+2025-02-03 18:05:07,406 - INFO - Saved quantized image: quantized_photos\image_255.jpg
+2025-02-03 18:05:12,592 - INFO - Saved quantized image: quantized_photos\image_256.jpg
+2025-02-03 18:05:15,767 - INFO - Saved quantized image: quantized_photos\image_257.jpg
+2025-02-03 18:05:18,445 - INFO - Saved quantized image: quantized_photos\image_258.jpg
+2025-02-03 18:05:25,407 - INFO - Saved quantized image: quantized_photos\image_259.jpg
+2025-02-03 18:05:29,095 - INFO - Saved quantized image: quantized_photos\image_26.jpg
+2025-02-03 18:05:32,888 - INFO - Saved quantized image: quantized_photos\image_260.jpg
+2025-02-03 18:05:36,835 - INFO - Saved quantized image: quantized_photos\image_261.jpg
+2025-02-03 18:05:41,077 - INFO - Saved quantized image: quantized_photos\image_262.jpg
+2025-02-03 18:05:43,568 - INFO - Saved quantized image: quantized_photos\image_263.jpg
+2025-02-03 18:05:50,932 - INFO - Saved quantized image: quantized_photos\image_264.jpg
+2025-02-03 18:05:56,570 - INFO - Saved quantized image: quantized_photos\image_265.jpg
+2025-02-03 18:05:59,512 - INFO - Saved quantized image: quantized_photos\image_266.jpg
+2025-02-03 18:06:02,890 - INFO - Saved quantized image: quantized_photos\image_267.jpg
+2025-02-03 18:06:10,899 - INFO - Saved quantized image: quantized_photos\image_268.jpg
+2025-02-03 18:06:15,076 - INFO - Saved quantized image: quantized_photos\image_269.jpg
+2025-02-03 18:06:17,434 - INFO - Saved quantized image: quantized_photos\image_27.jpg
+2025-02-03 18:06:23,770 - INFO - Saved quantized image: quantized_photos\image_270.jpg
+2025-02-03 18:06:25,626 - INFO - Saved quantized image: quantized_photos\image_271.jpg
+2025-02-03 18:06:27,731 - INFO - Saved quantized image: quantized_photos\image_272.jpg
+2025-02-03 18:06:29,634 - INFO - Saved quantized image: quantized_photos\image_273.jpg
+2025-02-03 18:06:35,684 - INFO - Saved quantized image: quantized_photos\image_274.jpg
+2025-02-03 18:06:37,065 - INFO - Saved quantized image: quantized_photos\image_275.jpg
+2025-02-03 18:06:38,981 - INFO - Saved quantized image: quantized_photos\image_276.jpg
+2025-02-03 18:06:40,839 - INFO - Saved quantized image: quantized_photos\image_277.jpg
+2025-02-03 18:06:42,786 - INFO - Saved quantized image: quantized_photos\image_278.jpg
+2025-02-03 18:06:49,282 - INFO - Saved quantized image: quantized_photos\image_279.jpg
+2025-02-03 18:06:53,499 - INFO - Saved quantized image: quantized_photos\image_28.jpg
+2025-02-03 18:06:58,008 - INFO - Saved quantized image: quantized_photos\image_280.jpg
+2025-02-03 18:07:00,666 - INFO - Saved quantized image: quantized_photos\image_281.jpg
+2025-02-03 18:07:02,690 - INFO - Saved quantized image: quantized_photos\image_282.jpg
+2025-02-03 18:07:09,167 - INFO - Saved quantized image: quantized_photos\image_283.jpg
+2025-02-03 18:07:13,103 - INFO - Saved quantized image: quantized_photos\image_284.jpg
+2025-02-03 18:07:14,922 - INFO - Saved quantized image: quantized_photos\image_285.jpg
+2025-02-03 18:07:16,699 - INFO - Saved quantized image: quantized_photos\image_286.jpg
+2025-02-03 18:07:18,969 - INFO - Saved quantized image: quantized_photos\image_287.jpg
+2025-02-03 18:07:23,140 - INFO - Saved quantized image: quantized_photos\image_288.jpg
+2025-02-03 18:07:28,575 - INFO - Saved quantized image: quantized_photos\image_289.jpg
+2025-02-03 18:07:30,152 - INFO - Saved quantized image: quantized_photos\image_29.jpg
+2025-02-03 18:07:34,911 - INFO - Saved quantized image: quantized_photos\image_290.jpg
+2025-02-03 18:07:38,495 - INFO - Saved quantized image: quantized_photos\image_291.jpg
+2025-02-03 18:07:41,057 - INFO - Saved quantized image: quantized_photos\image_292.jpg
+2025-02-03 18:07:43,169 - INFO - Saved quantized image: quantized_photos\image_293.jpg
+2025-02-03 18:07:47,008 - INFO - Saved quantized image: quantized_photos\image_294.jpg
+2025-02-03 18:07:49,335 - INFO - Saved quantized image: quantized_photos\image_295.jpg
+2025-02-03 18:07:50,853 - INFO - Saved quantized image: quantized_photos\image_296.jpg
+2025-02-03 18:07:52,781 - INFO - Saved quantized image: quantized_photos\image_297.jpg
+2025-02-03 18:07:54,212 - INFO - Saved quantized image: quantized_photos\image_298.jpg
+2025-02-03 18:08:01,877 - INFO - Saved quantized image: quantized_photos\image_299.jpg
+2025-02-03 18:08:03,363 - INFO - Saved quantized image: quantized_photos\image_3.jpg
+2025-02-03 18:08:08,519 - INFO - Saved quantized image: quantized_photos\image_30.jpg
+2025-02-03 18:08:12,816 - INFO - Saved quantized image: quantized_photos\image_300.jpg
+2025-02-03 18:08:18,276 - INFO - Saved quantized image: quantized_photos\image_301.jpg
+2025-02-03 18:08:20,991 - INFO - Saved quantized image: quantized_photos\image_302.jpg
+2025-02-03 18:08:23,434 - INFO - Saved quantized image: quantized_photos\image_303.jpg
+2025-02-03 18:08:28,052 - INFO - Saved quantized image: quantized_photos\image_304.jpg
+2025-02-03 18:08:29,643 - INFO - Saved quantized image: quantized_photos\image_305.jpg
+2025-02-03 18:08:31,231 - INFO - Saved quantized image: quantized_photos\image_306.jpg
+2025-02-03 18:08:36,881 - INFO - Saved quantized image: quantized_photos\image_307.jpg
+2025-02-03 18:08:40,748 - INFO - Saved quantized image: quantized_photos\image_308.jpg
+2025-02-03 18:08:45,587 - INFO - Saved quantized image: quantized_photos\image_309.jpg
+2025-02-03 18:08:50,059 - INFO - Saved quantized image: quantized_photos\image_31.jpg
+2025-02-03 18:08:55,230 - INFO - Saved quantized image: quantized_photos\image_310.jpg
+2025-02-03 18:08:56,884 - INFO - Saved quantized image: quantized_photos\image_311.jpg
+2025-02-03 18:08:59,513 - INFO - Saved quantized image: quantized_photos\image_312.jpg
+2025-02-03 18:09:01,935 - INFO - Saved quantized image: quantized_photos\image_313.jpg
+2025-02-03 18:09:03,464 - INFO - Saved quantized image: quantized_photos\image_314.jpg
+2025-02-03 18:09:05,153 - INFO - Saved quantized image: quantized_photos\image_315.jpg
+2025-02-03 18:09:06,315 - INFO - Saved quantized image: quantized_photos\image_316.jpg
+2025-02-03 18:09:07,982 - INFO - Saved quantized image: quantized_photos\image_317.jpg
+2025-02-03 18:09:09,179 - INFO - Saved quantized image: quantized_photos\image_318.jpg
+2025-02-03 18:09:11,760 - INFO - Saved quantized image: quantized_photos\image_319.jpg
+2025-02-03 18:09:12,668 - INFO - Saved quantized image: quantized_photos\image_32.jpg
+2025-02-03 18:09:15,411 - INFO - Saved quantized image: quantized_photos\image_320.jpg
+2025-02-03 18:09:20,240 - INFO - Saved quantized image: quantized_photos\image_321.jpg
+2025-02-03 18:09:23,879 - INFO - Saved quantized image: quantized_photos\image_322.jpg
+2025-02-03 18:09:30,568 - INFO - Saved quantized image: quantized_photos\image_323.jpg
+2025-02-03 18:09:32,461 - INFO - Saved quantized image: quantized_photos\image_324.jpg
+2025-02-03 18:09:36,930 - INFO - Saved quantized image: quantized_photos\image_325.jpg
+2025-02-03 18:09:38,810 - INFO - Saved quantized image: quantized_photos\image_326.jpg
+2025-02-03 18:09:45,361 - INFO - Saved quantized image: quantized_photos\image_327.jpg
+2025-02-03 18:09:47,239 - INFO - Saved quantized image: quantized_photos\image_328.jpg
+2025-02-03 18:09:49,168 - INFO - Saved quantized image: quantized_photos\image_329.jpg
+2025-02-03 18:09:54,954 - INFO - Saved quantized image: quantized_photos\image_33.jpg
+2025-02-03 18:09:59,302 - INFO - Saved quantized image: quantized_photos\image_330.jpg
+2025-02-03 18:10:03,494 - INFO - Saved quantized image: quantized_photos\image_331.jpg
+2025-02-03 18:21:39,666 - INFO - Colour Quantizer script started.
+2025-02-03 18:21:39,666 - INFO - Processing images from scraped_photos, saving to quantized_photos
+2025-02-03 18:21:40,006 - INFO - [1/1001] Quantized & saved: quantized_photos\image_1.jpg
+2025-02-03 18:21:40,451 - INFO - [2/1001] Quantized & saved: quantized_photos\image_10.jpg
+2025-02-03 18:21:40,766 - INFO - [3/1001] Quantized & saved: quantized_photos\image_100.jpg
+2025-02-03 18:21:41,071 - INFO - [4/1001] Quantized & saved: quantized_photos\image_1000.jpg
+2025-02-03 18:21:41,375 - INFO - [5/1001] Quantized & saved: quantized_photos\image_1001.jpg
+2025-02-03 18:21:41,658 - INFO - [6/1001] Quantized & saved: quantized_photos\image_101.jpg
+2025-02-03 18:21:41,866 - INFO - [7/1001] Quantized & saved: quantized_photos\image_102.jpg
+2025-02-03 18:21:42,095 - INFO - [8/1001] Quantized & saved: quantized_photos\image_103.jpg
+2025-02-03 18:21:42,475 - INFO - [9/1001] Quantized & saved: quantized_photos\image_104.jpg
+2025-02-03 18:21:42,721 - INFO - [10/1001] Quantized & saved: quantized_photos\image_105.jpg
+2025-02-03 18:21:43,126 - INFO - [11/1001] Quantized & saved: quantized_photos\image_106.jpg
+2025-02-03 18:21:43,509 - INFO - [12/1001] Quantized & saved: quantized_photos\image_107.jpg
+2025-02-03 18:21:43,778 - INFO - [13/1001] Quantized & saved: quantized_photos\image_108.jpg
+2025-02-03 18:21:43,911 - INFO - [14/1001] Quantized & saved: quantized_photos\image_109.jpg
+2025-02-03 18:21:44,126 - INFO - [15/1001] Quantized & saved: quantized_photos\image_11.jpg
+2025-02-03 18:21:44,475 - INFO - [16/1001] Quantized & saved: quantized_photos\image_110.jpg
+2025-02-03 18:21:44,940 - INFO - [17/1001] Quantized & saved: quantized_photos\image_111.jpg
+2025-02-03 18:21:45,256 - INFO - [18/1001] Quantized & saved: quantized_photos\image_112.jpg
+2025-02-03 18:21:45,489 - INFO - [19/1001] Quantized & saved: quantized_photos\image_113.jpg
+2025-02-03 18:21:45,766 - INFO - [20/1001] Quantized & saved: quantized_photos\image_114.jpg
+2025-02-03 18:21:46,068 - INFO - [21/1001] Quantized & saved: quantized_photos\image_115.jpg
+2025-02-03 18:21:46,426 - INFO - [22/1001] Quantized & saved: quantized_photos\image_116.jpg
+2025-02-03 18:21:46,853 - INFO - [23/1001] Quantized & saved: quantized_photos\image_117.jpg
+2025-02-03 18:21:47,164 - INFO - [24/1001] Quantized & saved: quantized_photos\image_118.jpg
+2025-02-03 18:21:47,441 - INFO - [25/1001] Quantized & saved: quantized_photos\image_119.jpg
+2025-02-03 18:21:47,786 - INFO - [26/1001] Quantized & saved: quantized_photos\image_12.jpg
+2025-02-03 18:21:48,204 - INFO - [27/1001] Quantized & saved: quantized_photos\image_120.jpg
+2025-02-03 18:21:48,562 - INFO - [28/1001] Quantized & saved: quantized_photos\image_121.jpg
+2025-02-03 18:21:48,974 - INFO - [29/1001] Quantized & saved: quantized_photos\image_122.jpg
+2025-02-03 18:21:49,349 - INFO - [30/1001] Quantized & saved: quantized_photos\image_123.jpg
+2025-02-03 18:21:49,731 - INFO - [31/1001] Quantized & saved: quantized_photos\image_124.jpg
+2025-02-03 18:21:49,899 - INFO - [32/1001] Quantized & saved: quantized_photos\image_125.jpg
+2025-02-03 18:21:50,241 - INFO - [33/1001] Quantized & saved: quantized_photos\image_126.jpg
+2025-02-03 18:21:50,526 - INFO - [34/1001] Quantized & saved: quantized_photos\image_127.jpg
+2025-02-03 18:21:50,945 - INFO - [35/1001] Quantized & saved: quantized_photos\image_128.jpg
+2025-02-03 18:21:51,135 - INFO - [36/1001] Quantized & saved: quantized_photos\image_129.jpg
+2025-02-03 18:21:51,316 - INFO - [37/1001] Quantized & saved: quantized_photos\image_13.jpg
+2025-02-03 18:21:51,623 - INFO - [38/1001] Quantized & saved: quantized_photos\image_130.jpg
+2025-02-03 18:21:52,058 - INFO - [39/1001] Quantized & saved: quantized_photos\image_131.jpg
+2025-02-03 18:21:52,413 - INFO - [40/1001] Quantized & saved: quantized_photos\image_132.jpg
+2025-02-03 18:21:52,707 - INFO - [41/1001] Quantized & saved: quantized_photos\image_133.jpg
+2025-02-03 18:21:52,860 - INFO - [42/1001] Quantized & saved: quantized_photos\image_134.jpg
+2025-02-03 18:21:53,282 - INFO - [43/1001] Quantized & saved: quantized_photos\image_135.jpg
+2025-02-03 18:21:53,500 - INFO - [44/1001] Quantized & saved: quantized_photos\image_136.jpg
+2025-02-03 18:21:53,845 - INFO - [45/1001] Quantized & saved: quantized_photos\image_137.jpg
+2025-02-03 18:21:54,117 - INFO - [46/1001] Quantized & saved: quantized_photos\image_138.jpg
+2025-02-03 18:21:54,489 - INFO - [47/1001] Quantized & saved: quantized_photos\image_139.jpg
+2025-02-03 18:21:54,753 - INFO - [48/1001] Quantized & saved: quantized_photos\image_14.jpg
+2025-02-03 18:21:55,140 - INFO - [49/1001] Quantized & saved: quantized_photos\image_140.jpg
+2025-02-03 18:21:55,362 - INFO - [50/1001] Quantized & saved: quantized_photos\image_141.jpg
+2025-02-03 18:21:55,644 - INFO - [51/1001] Quantized & saved: quantized_photos\image_142.jpg
+2025-02-03 18:21:55,926 - INFO - [52/1001] Quantized & saved: quantized_photos\image_143.jpg
+2025-02-03 18:21:56,171 - INFO - [53/1001] Quantized & saved: quantized_photos\image_144.jpg
+2025-02-03 18:21:56,504 - INFO - [54/1001] Quantized & saved: quantized_photos\image_145.jpg
+2025-02-03 18:21:56,929 - INFO - [55/1001] Quantized & saved: quantized_photos\image_146.jpg
+2025-02-03 18:21:57,272 - INFO - [56/1001] Quantized & saved: quantized_photos\image_147.jpg
+2025-02-03 18:21:57,764 - INFO - [57/1001] Quantized & saved: quantized_photos\image_148.jpg
+2025-02-03 18:21:58,194 - INFO - [58/1001] Quantized & saved: quantized_photos\image_149.jpg
+2025-02-03 18:21:58,538 - INFO - [59/1001] Quantized & saved: quantized_photos\image_15.jpg
+2025-02-03 18:21:59,145 - INFO - [60/1001] Quantized & saved: quantized_photos\image_150.jpg
+2025-02-03 18:21:59,428 - INFO - [61/1001] Quantized & saved: quantized_photos\image_151.jpg
+2025-02-03 18:21:59,733 - INFO - [62/1001] Quantized & saved: quantized_photos\image_152.jpg
+2025-02-03 18:22:00,020 - INFO - [63/1001] Quantized & saved: quantized_photos\image_153.jpg
+2025-02-03 18:22:00,543 - INFO - [64/1001] Quantized & saved: quantized_photos\image_154.jpg
+2025-02-03 18:22:01,022 - INFO - [65/1001] Quantized & saved: quantized_photos\image_155.jpg
+2025-02-03 18:22:01,392 - INFO - [66/1001] Quantized & saved: quantized_photos\image_156.jpg
+2025-02-03 18:22:01,638 - INFO - [67/1001] Quantized & saved: quantized_photos\image_157.jpg
+2025-02-03 18:22:01,873 - INFO - [68/1001] Quantized & saved: quantized_photos\image_158.jpg
+2025-02-03 18:22:02,123 - INFO - [69/1001] Quantized & saved: quantized_photos\image_159.jpg
+2025-02-03 18:22:02,427 - INFO - [70/1001] Quantized & saved: quantized_photos\image_16.jpg
+2025-02-03 18:22:02,747 - INFO - [71/1001] Quantized & saved: quantized_photos\image_160.jpg
+2025-02-03 18:22:03,064 - INFO - [72/1001] Quantized & saved: quantized_photos\image_161.jpg
+2025-02-03 18:22:03,302 - INFO - [73/1001] Quantized & saved: quantized_photos\image_162.jpg
+2025-02-03 18:22:03,581 - INFO - [74/1001] Quantized & saved: quantized_photos\image_163.jpg
+2025-02-03 18:22:03,882 - INFO - [75/1001] Quantized & saved: quantized_photos\image_164.jpg
+2025-02-03 18:22:04,261 - INFO - [76/1001] Quantized & saved: quantized_photos\image_165.jpg
+2025-02-03 18:22:04,701 - INFO - [77/1001] Quantized & saved: quantized_photos\image_166.jpg
+2025-02-03 18:22:04,981 - INFO - [78/1001] Quantized & saved: quantized_photos\image_167.jpg
+2025-02-03 18:22:05,213 - INFO - [79/1001] Quantized & saved: quantized_photos\image_168.jpg
+2025-02-03 18:22:05,459 - INFO - [80/1001] Quantized & saved: quantized_photos\image_169.jpg
+2025-02-03 18:22:05,857 - INFO - [81/1001] Quantized & saved: quantized_photos\image_17.jpg
+2025-02-03 18:22:06,055 - INFO - [82/1001] Quantized & saved: quantized_photos\image_170.jpg
+2025-02-03 18:22:06,358 - INFO - [83/1001] Quantized & saved: quantized_photos\image_171.jpg
+2025-02-03 18:22:06,714 - INFO - [84/1001] Quantized & saved: quantized_photos\image_172.jpg
+2025-02-03 18:22:07,123 - INFO - [85/1001] Quantized & saved: quantized_photos\image_173.jpg
+2025-02-03 18:22:07,476 - INFO - [86/1001] Quantized & saved: quantized_photos\image_174.jpg
+2025-02-03 18:22:07,707 - INFO - [87/1001] Quantized & saved: quantized_photos\image_175.jpg
+2025-02-03 18:22:07,954 - INFO - [88/1001] Quantized & saved: quantized_photos\image_176.jpg
+2025-02-03 18:22:08,350 - INFO - [89/1001] Quantized & saved: quantized_photos\image_177.jpg
+2025-02-03 18:22:08,643 - INFO - [90/1001] Quantized & saved: quantized_photos\image_178.jpg
+2025-02-03 18:22:08,936 - INFO - [91/1001] Quantized & saved: quantized_photos\image_179.jpg
+2025-02-03 18:22:09,329 - INFO - [92/1001] Quantized & saved: quantized_photos\image_18.jpg
+2025-02-03 18:22:09,772 - INFO - [93/1001] Quantized & saved: quantized_photos\image_180.jpg
+2025-02-03 18:22:10,143 - INFO - [94/1001] Quantized & saved: quantized_photos\image_181.jpg
+2025-02-03 18:22:10,406 - INFO - [95/1001] Quantized & saved: quantized_photos\image_182.jpg
+2025-02-03 18:22:10,763 - INFO - [96/1001] Quantized & saved: quantized_photos\image_183.jpg
+2025-02-03 18:22:11,239 - INFO - [97/1001] Quantized & saved: quantized_photos\image_184.jpg
+2025-02-03 18:22:11,565 - INFO - [98/1001] Quantized & saved: quantized_photos\image_185.jpg
+2025-02-03 18:22:11,830 - INFO - [99/1001] Quantized & saved: quantized_photos\image_186.jpg
+2025-02-03 18:22:12,180 - INFO - [100/1001] Quantized & saved: quantized_photos\image_187.jpg
+2025-02-03 18:22:12,544 - INFO - [101/1001] Quantized & saved: quantized_photos\image_188.jpg
+2025-02-03 18:22:12,922 - INFO - [102/1001] Quantized & saved: quantized_photos\image_189.jpg
+2025-02-03 18:22:13,229 - INFO - [103/1001] Quantized & saved: quantized_photos\image_19.jpg
+2025-02-03 18:22:13,898 - INFO - [104/1001] Quantized & saved: quantized_photos\image_190.jpg
+2025-02-03 18:22:14,218 - INFO - [105/1001] Quantized & saved: quantized_photos\image_191.jpg
+2025-02-03 18:22:14,447 - INFO - [106/1001] Quantized & saved: quantized_photos\image_192.jpg
+2025-02-03 18:22:14,886 - INFO - [107/1001] Quantized & saved: quantized_photos\image_193.jpg
+2025-02-03 18:22:15,174 - INFO - [108/1001] Quantized & saved: quantized_photos\image_194.jpg
+2025-02-03 18:22:15,577 - INFO - [109/1001] Quantized & saved: quantized_photos\image_195.jpg
+2025-02-03 18:22:15,996 - INFO - [110/1001] Quantized & saved: quantized_photos\image_196.jpg
+2025-02-03 18:22:16,391 - INFO - [111/1001] Quantized & saved: quantized_photos\image_197.jpg
+2025-02-03 18:22:16,607 - INFO - [112/1001] Quantized & saved: quantized_photos\image_198.jpg
+2025-02-03 18:22:16,965 - INFO - [113/1001] Quantized & saved: quantized_photos\image_199.jpg
+2025-02-03 18:22:17,499 - INFO - [114/1001] Quantized & saved: quantized_photos\image_2.jpg
+2025-02-03 18:22:17,698 - INFO - [115/1001] Quantized & saved: quantized_photos\image_20.jpg
+2025-02-03 18:22:18,085 - INFO - [116/1001] Quantized & saved: quantized_photos\image_200.jpg
+2025-02-03 18:22:18,493 - INFO - [117/1001] Quantized & saved: quantized_photos\image_201.jpg
+2025-02-03 18:22:18,794 - INFO - [118/1001] Quantized & saved: quantized_photos\image_202.jpg
+2025-02-03 18:22:19,321 - INFO - [119/1001] Quantized & saved: quantized_photos\image_203.jpg
+2025-02-03 18:22:19,658 - INFO - [120/1001] Quantized & saved: quantized_photos\image_204.jpg
+2025-02-03 18:22:19,996 - INFO - [121/1001] Quantized & saved: quantized_photos\image_205.jpg
+2025-02-03 18:22:20,391 - INFO - [122/1001] Quantized & saved: quantized_photos\image_206.jpg
+2025-02-03 18:22:20,825 - INFO - [123/1001] Quantized & saved: quantized_photos\image_207.jpg
+2025-02-03 18:22:21,135 - INFO - [124/1001] Quantized & saved: quantized_photos\image_208.jpg
+2025-02-03 18:22:21,360 - INFO - [125/1001] Quantized & saved: quantized_photos\image_209.jpg
+2025-02-03 18:22:21,639 - INFO - [126/1001] Quantized & saved: quantized_photos\image_21.jpg
+2025-02-03 18:22:21,913 - INFO - [127/1001] Quantized & saved: quantized_photos\image_210.jpg
+2025-02-03 18:22:22,271 - INFO - [128/1001] Quantized & saved: quantized_photos\image_211.jpg
+2025-02-03 18:22:22,500 - INFO - [129/1001] Quantized & saved: quantized_photos\image_212.jpg
+2025-02-03 18:22:22,780 - INFO - [130/1001] Quantized & saved: quantized_photos\image_213.jpg
+2025-02-03 18:22:23,120 - INFO - [131/1001] Quantized & saved: quantized_photos\image_214.jpg
+2025-02-03 18:22:23,358 - INFO - [132/1001] Quantized & saved: quantized_photos\image_215.jpg
+2025-02-03 18:22:23,668 - INFO - [133/1001] Quantized & saved: quantized_photos\image_216.jpg
+2025-02-03 18:22:24,060 - INFO - [134/1001] Quantized & saved: quantized_photos\image_217.jpg
+2025-02-03 18:22:24,433 - INFO - [135/1001] Quantized & saved: quantized_photos\image_218.jpg
+2025-02-03 18:22:24,849 - INFO - [136/1001] Quantized & saved: quantized_photos\image_219.jpg
+2025-02-03 18:22:25,241 - INFO - [137/1001] Quantized & saved: quantized_photos\image_22.jpg
+2025-02-03 18:22:25,529 - INFO - [138/1001] Quantized & saved: quantized_photos\image_220.jpg
+2025-02-03 18:22:25,985 - INFO - [139/1001] Quantized & saved: quantized_photos\image_221.jpg
+2025-02-03 18:22:26,392 - INFO - [140/1001] Quantized & saved: quantized_photos\image_222.jpg
+2025-02-03 18:22:26,671 - INFO - [141/1001] Quantized & saved: quantized_photos\image_223.jpg
+2025-02-03 18:22:26,909 - INFO - [142/1001] Quantized & saved: quantized_photos\image_224.jpg
+2025-02-03 18:22:27,341 - INFO - [143/1001] Quantized & saved: quantized_photos\image_225.jpg
+2025-02-03 18:22:27,676 - INFO - [144/1001] Quantized & saved: quantized_photos\image_226.jpg
+2025-02-03 18:22:28,119 - INFO - [145/1001] Quantized & saved: quantized_photos\image_227.jpg
+2025-02-03 18:22:28,460 - INFO - [146/1001] Quantized & saved: quantized_photos\image_228.jpg
+2025-02-03 18:22:28,930 - INFO - [147/1001] Quantized & saved: quantized_photos\image_229.jpg
+2025-02-03 18:22:29,224 - INFO - [148/1001] Quantized & saved: quantized_photos\image_23.jpg
+2025-02-03 18:22:29,496 - INFO - [149/1001] Quantized & saved: quantized_photos\image_230.jpg
+2025-02-03 18:22:29,975 - INFO - [150/1001] Quantized & saved: quantized_photos\image_231.jpg
+2025-02-03 18:22:30,343 - INFO - [151/1001] Quantized & saved: quantized_photos\image_232.jpg
+2025-02-03 18:22:30,559 - INFO - [152/1001] Quantized & saved: quantized_photos\image_233.jpg
+2025-02-03 18:22:31,011 - INFO - [153/1001] Quantized & saved: quantized_photos\image_234.jpg
+2025-02-03 18:22:31,616 - INFO - [154/1001] Quantized & saved: quantized_photos\image_235.jpg
+2025-02-03 18:22:31,951 - INFO - [155/1001] Quantized & saved: quantized_photos\image_236.jpg
+2025-02-03 18:22:32,398 - INFO - [156/1001] Quantized & saved: quantized_photos\image_237.jpg
+2025-02-03 18:22:32,771 - INFO - [157/1001] Quantized & saved: quantized_photos\image_238.jpg
+2025-02-03 18:22:33,119 - INFO - [158/1001] Quantized & saved: quantized_photos\image_239.jpg
+2025-02-03 18:22:33,412 - INFO - [159/1001] Quantized & saved: quantized_photos\image_24.jpg
+2025-02-03 18:22:33,722 - INFO - [160/1001] Quantized & saved: quantized_photos\image_240.jpg
+2025-02-03 18:22:34,058 - INFO - [161/1001] Quantized & saved: quantized_photos\image_241.jpg
+2025-02-03 18:22:34,359 - INFO - [162/1001] Quantized & saved: quantized_photos\image_242.jpg
+2025-02-03 18:22:34,651 - INFO - [163/1001] Quantized & saved: quantized_photos\image_243.jpg
+2025-02-03 18:22:35,035 - INFO - [164/1001] Quantized & saved: quantized_photos\image_244.jpg
+2025-02-03 18:22:35,272 - INFO - [165/1001] Quantized & saved: quantized_photos\image_245.jpg
+2025-02-03 18:22:35,595 - INFO - [166/1001] Quantized & saved: quantized_photos\image_246.jpg
+2025-02-03 18:22:35,861 - INFO - [167/1001] Quantized & saved: quantized_photos\image_247.jpg
+2025-02-03 18:22:36,372 - INFO - [168/1001] Quantized & saved: quantized_photos\image_248.jpg
+2025-02-03 18:22:36,728 - INFO - [169/1001] Quantized & saved: quantized_photos\image_249.jpg
+2025-02-03 18:22:37,036 - INFO - [170/1001] Quantized & saved: quantized_photos\image_25.jpg
+2025-02-03 18:22:37,288 - INFO - [171/1001] Quantized & saved: quantized_photos\image_250.jpg
+2025-02-03 18:22:37,576 - INFO - [172/1001] Quantized & saved: quantized_photos\image_251.jpg
+2025-02-03 18:22:38,016 - INFO - [173/1001] Quantized & saved: quantized_photos\image_252.jpg
+2025-02-03 18:22:38,258 - INFO - [174/1001] Quantized & saved: quantized_photos\image_253.jpg
+2025-02-03 18:22:38,577 - INFO - [175/1001] Quantized & saved: quantized_photos\image_254.jpg
+2025-02-03 18:22:38,911 - INFO - [176/1001] Quantized & saved: quantized_photos\image_255.jpg
+2025-02-03 18:22:39,325 - INFO - [177/1001] Quantized & saved: quantized_photos\image_256.jpg
+2025-02-03 18:22:39,674 - INFO - [178/1001] Quantized & saved: quantized_photos\image_257.jpg
+2025-02-03 18:22:40,126 - INFO - [179/1001] Quantized & saved: quantized_photos\image_258.jpg
+2025-02-03 18:22:40,487 - INFO - [180/1001] Quantized & saved: quantized_photos\image_259.jpg
+2025-02-03 18:22:40,892 - INFO - [181/1001] Quantized & saved: quantized_photos\image_26.jpg
+2025-02-03 18:22:41,151 - INFO - [182/1001] Quantized & saved: quantized_photos\image_260.jpg
+2025-02-03 18:22:41,355 - INFO - [183/1001] Quantized & saved: quantized_photos\image_261.jpg
+2025-02-03 18:22:41,614 - INFO - [184/1001] Quantized & saved: quantized_photos\image_262.jpg
+2025-02-03 18:22:41,987 - INFO - [185/1001] Quantized & saved: quantized_photos\image_263.jpg
+2025-02-03 18:22:42,481 - INFO - [186/1001] Quantized & saved: quantized_photos\image_264.jpg
+2025-02-03 18:22:42,778 - INFO - [187/1001] Quantized & saved: quantized_photos\image_265.jpg
+2025-02-03 18:22:43,092 - INFO - [188/1001] Quantized & saved: quantized_photos\image_266.jpg
+2025-02-03 18:22:43,480 - INFO - [189/1001] Quantized & saved: quantized_photos\image_267.jpg
+2025-02-03 18:22:43,988 - INFO - [190/1001] Quantized & saved: quantized_photos\image_268.jpg
+2025-02-03 18:22:44,323 - INFO - [191/1001] Quantized & saved: quantized_photos\image_269.jpg
+2025-02-03 18:22:44,655 - INFO - [192/1001] Quantized & saved: quantized_photos\image_27.jpg
+2025-02-03 18:22:45,069 - INFO - [193/1001] Quantized & saved: quantized_photos\image_270.jpg
+2025-02-03 18:22:45,373 - INFO - [194/1001] Quantized & saved: quantized_photos\image_271.jpg
+2025-02-03 18:22:45,796 - INFO - [195/1001] Quantized & saved: quantized_photos\image_272.jpg
+2025-02-03 18:22:46,110 - INFO - [196/1001] Quantized & saved: quantized_photos\image_273.jpg
+2025-02-03 18:22:46,652 - INFO - [197/1001] Quantized & saved: quantized_photos\image_274.jpg
+2025-02-03 18:22:46,919 - INFO - [198/1001] Quantized & saved: quantized_photos\image_275.jpg
+2025-02-03 18:22:47,185 - INFO - [199/1001] Quantized & saved: quantized_photos\image_276.jpg
+2025-02-03 18:22:47,535 - INFO - [200/1001] Quantized & saved: quantized_photos\image_277.jpg
+2025-02-03 18:22:47,860 - INFO - [201/1001] Quantized & saved: quantized_photos\image_278.jpg
+2025-02-03 18:22:48,411 - INFO - [202/1001] Quantized & saved: quantized_photos\image_279.jpg
+2025-02-03 18:22:48,840 - INFO - [203/1001] Quantized & saved: quantized_photos\image_28.jpg
+2025-02-03 18:22:49,235 - INFO - [204/1001] Quantized & saved: quantized_photos\image_280.jpg
+2025-02-03 18:22:49,494 - INFO - [205/1001] Quantized & saved: quantized_photos\image_281.jpg
+2025-02-03 18:22:49,921 - INFO - [206/1001] Quantized & saved: quantized_photos\image_282.jpg
+2025-02-03 18:22:50,383 - INFO - [207/1001] Quantized & saved: quantized_photos\image_283.jpg
+2025-02-03 18:22:50,717 - INFO - [208/1001] Quantized & saved: quantized_photos\image_284.jpg
+2025-02-03 18:22:51,036 - INFO - [209/1001] Quantized & saved: quantized_photos\image_285.jpg
+2025-02-03 18:22:51,463 - INFO - [210/1001] Quantized & saved: quantized_photos\image_286.jpg
+2025-02-03 18:22:51,899 - INFO - [211/1001] Quantized & saved: quantized_photos\image_287.jpg
+2025-02-03 18:22:52,191 - INFO - [212/1001] Quantized & saved: quantized_photos\image_288.jpg
+2025-02-03 18:22:52,515 - INFO - [213/1001] Quantized & saved: quantized_photos\image_289.jpg
+2025-02-03 18:22:52,780 - INFO - [214/1001] Quantized & saved: quantized_photos\image_29.jpg
+2025-02-03 18:22:53,033 - INFO - [215/1001] Quantized & saved: quantized_photos\image_290.jpg
+2025-02-03 18:22:53,358 - INFO - [216/1001] Quantized & saved: quantized_photos\image_291.jpg
+2025-02-03 18:22:53,792 - INFO - [217/1001] Quantized & saved: quantized_photos\image_292.jpg
+2025-02-03 18:22:53,975 - INFO - [218/1001] Quantized & saved: quantized_photos\image_293.jpg
+2025-02-03 18:22:54,395 - INFO - [219/1001] Quantized & saved: quantized_photos\image_294.jpg
+2025-02-03 18:22:54,758 - INFO - [220/1001] Quantized & saved: quantized_photos\image_295.jpg
+2025-02-03 18:22:55,085 - INFO - [221/1001] Quantized & saved: quantized_photos\image_296.jpg
+2025-02-03 18:22:55,438 - INFO - [222/1001] Quantized & saved: quantized_photos\image_297.jpg
+2025-02-03 18:22:55,675 - INFO - [223/1001] Quantized & saved: quantized_photos\image_298.jpg
+2025-02-03 18:22:56,172 - INFO - [224/1001] Quantized & saved: quantized_photos\image_299.jpg
+2025-02-03 18:22:56,412 - INFO - [225/1001] Quantized & saved: quantized_photos\image_3.jpg
+2025-02-03 18:22:56,768 - INFO - [226/1001] Quantized & saved: quantized_photos\image_30.jpg
+2025-02-03 18:22:57,046 - INFO - [227/1001] Quantized & saved: quantized_photos\image_300.jpg
+2025-02-03 18:22:57,488 - INFO - [228/1001] Quantized & saved: quantized_photos\image_301.jpg
+2025-02-03 18:22:57,734 - INFO - [229/1001] Quantized & saved: quantized_photos\image_302.jpg
+2025-02-03 18:22:58,069 - INFO - [230/1001] Quantized & saved: quantized_photos\image_303.jpg
+2025-02-03 18:22:58,455 - INFO - [231/1001] Quantized & saved: quantized_photos\image_304.jpg
+2025-02-03 18:22:58,838 - INFO - [232/1001] Quantized & saved: quantized_photos\image_305.jpg
+2025-02-03 18:22:59,151 - INFO - [233/1001] Quantized & saved: quantized_photos\image_306.jpg
+2025-02-03 18:22:59,576 - INFO - [234/1001] Quantized & saved: quantized_photos\image_307.jpg
+2025-02-03 18:22:59,885 - INFO - [235/1001] Quantized & saved: quantized_photos\image_308.jpg
+2025-02-03 18:23:00,227 - INFO - [236/1001] Quantized & saved: quantized_photos\image_309.jpg
+2025-02-03 18:23:00,554 - INFO - [237/1001] Quantized & saved: quantized_photos\image_31.jpg
+2025-02-03 18:23:01,030 - INFO - [238/1001] Quantized & saved: quantized_photos\image_310.jpg
+2025-02-03 18:23:01,261 - INFO - [239/1001] Quantized & saved: quantized_photos\image_311.jpg
+2025-02-03 18:23:01,752 - INFO - [240/1001] Quantized & saved: quantized_photos\image_312.jpg
+2025-02-03 18:23:02,125 - INFO - [241/1001] Quantized & saved: quantized_photos\image_313.jpg
+2025-02-03 18:23:02,413 - INFO - [242/1001] Quantized & saved: quantized_photos\image_314.jpg
+2025-02-03 18:23:02,658 - INFO - [243/1001] Quantized & saved: quantized_photos\image_315.jpg
+2025-02-03 18:23:02,972 - INFO - [244/1001] Quantized & saved: quantized_photos\image_316.jpg
+2025-02-03 18:23:03,238 - INFO - [245/1001] Quantized & saved: quantized_photos\image_317.jpg
+2025-02-03 18:23:03,473 - INFO - [246/1001] Quantized & saved: quantized_photos\image_318.jpg
+2025-02-03 18:23:03,914 - INFO - [247/1001] Quantized & saved: quantized_photos\image_319.jpg
+2025-02-03 18:23:04,152 - INFO - [248/1001] Quantized & saved: quantized_photos\image_32.jpg
+2025-02-03 18:23:04,541 - INFO - [249/1001] Quantized & saved: quantized_photos\image_320.jpg
+2025-02-03 18:23:04,954 - INFO - [250/1001] Quantized & saved: quantized_photos\image_321.jpg
+2025-02-03 18:23:05,223 - INFO - [251/1001] Quantized & saved: quantized_photos\image_322.jpg
+2025-02-03 18:23:05,775 - INFO - [252/1001] Quantized & saved: quantized_photos\image_323.jpg
+2025-02-03 18:23:06,115 - INFO - [253/1001] Quantized & saved: quantized_photos\image_324.jpg
+2025-02-03 18:23:06,501 - INFO - [254/1001] Quantized & saved: quantized_photos\image_325.jpg
+2025-02-03 18:23:06,877 - INFO - [255/1001] Quantized & saved: quantized_photos\image_326.jpg
+2025-02-03 18:23:07,366 - INFO - [256/1001] Quantized & saved: quantized_photos\image_327.jpg
+2025-02-03 18:23:07,734 - INFO - [257/1001] Quantized & saved: quantized_photos\image_328.jpg
+2025-02-03 18:23:08,038 - INFO - [258/1001] Quantized & saved: quantized_photos\image_329.jpg
+2025-02-03 18:23:08,517 - INFO - [259/1001] Quantized & saved: quantized_photos\image_33.jpg
+2025-02-03 18:23:08,810 - INFO - [260/1001] Quantized & saved: quantized_photos\image_330.jpg
+2025-02-03 18:23:09,182 - INFO - [261/1001] Quantized & saved: quantized_photos\image_331.jpg
+2025-02-03 18:23:09,466 - INFO - [262/1001] Quantized & saved: quantized_photos\image_332.jpg
+2025-02-03 18:23:09,853 - INFO - [263/1001] Quantized & saved: quantized_photos\image_333.jpg
+2025-02-03 18:23:10,184 - INFO - [264/1001] Quantized & saved: quantized_photos\image_334.jpg
+2025-02-03 18:23:10,526 - INFO - [265/1001] Quantized & saved: quantized_photos\image_335.jpg
+2025-02-03 18:23:10,862 - INFO - [266/1001] Quantized & saved: quantized_photos\image_336.jpg
+2025-02-03 18:23:11,143 - INFO - [267/1001] Quantized & saved: quantized_photos\image_337.jpg
+2025-02-03 18:23:11,562 - INFO - [268/1001] Quantized & saved: quantized_photos\image_338.jpg
+2025-02-03 18:23:11,808 - INFO - [269/1001] Quantized & saved: quantized_photos\image_339.jpg
+2025-02-03 18:23:12,118 - INFO - [270/1001] Quantized & saved: quantized_photos\image_34.jpg
+2025-02-03 18:23:12,460 - INFO - [271/1001] Quantized & saved: quantized_photos\image_340.jpg
+2025-02-03 18:23:12,705 - INFO - [272/1001] Quantized & saved: quantized_photos\image_341.jpg
+2025-02-03 18:23:13,152 - INFO - [273/1001] Quantized & saved: quantized_photos\image_342.jpg
+2025-02-03 18:23:13,649 - INFO - [274/1001] Quantized & saved: quantized_photos\image_343.jpg
+2025-02-03 18:23:13,895 - INFO - [275/1001] Quantized & saved: quantized_photos\image_344.jpg
+2025-02-03 18:23:14,319 - INFO - [276/1001] Quantized & saved: quantized_photos\image_345.jpg
+2025-02-03 18:23:14,607 - INFO - [277/1001] Quantized & saved: quantized_photos\image_346.jpg
+2025-02-03 18:23:14,949 - INFO - [278/1001] Quantized & saved: quantized_photos\image_347.jpg
+2025-02-03 18:23:15,510 - INFO - [279/1001] Quantized & saved: quantized_photos\image_348.jpg
+2025-02-03 18:23:15,868 - INFO - [280/1001] Quantized & saved: quantized_photos\image_349.jpg
+2025-02-03 18:23:16,316 - INFO - [281/1001] Quantized & saved: quantized_photos\image_35.jpg
+2025-02-03 18:23:16,624 - INFO - [282/1001] Quantized & saved: quantized_photos\image_350.jpg
+2025-02-03 18:23:16,871 - INFO - [283/1001] Quantized & saved: quantized_photos\image_351.jpg
+2025-02-03 18:23:17,253 - INFO - [284/1001] Quantized & saved: quantized_photos\image_352.jpg
+2025-02-03 18:23:17,673 - INFO - [285/1001] Quantized & saved: quantized_photos\image_353.jpg
+2025-02-03 18:23:18,342 - INFO - [286/1001] Quantized & saved: quantized_photos\image_354.jpg
+2025-02-03 18:23:18,682 - INFO - [287/1001] Quantized & saved: quantized_photos\image_355.jpg
+2025-02-03 18:23:19,079 - INFO - [288/1001] Quantized & saved: quantized_photos\image_356.jpg
+2025-02-03 18:23:19,396 - INFO - [289/1001] Quantized & saved: quantized_photos\image_357.jpg
+2025-02-03 18:23:19,726 - INFO - [290/1001] Quantized & saved: quantized_photos\image_358.jpg
+2025-02-03 18:23:20,063 - INFO - [291/1001] Quantized & saved: quantized_photos\image_359.jpg
+2025-02-03 18:23:20,474 - INFO - [292/1001] Quantized & saved: quantized_photos\image_36.jpg
+2025-02-03 18:23:20,800 - INFO - [293/1001] Quantized & saved: quantized_photos\image_360.jpg
+2025-02-03 18:23:21,246 - INFO - [294/1001] Quantized & saved: quantized_photos\image_361.jpg
+2025-02-03 18:23:21,567 - INFO - [295/1001] Quantized & saved: quantized_photos\image_362.jpg
+2025-02-03 18:23:21,932 - INFO - [296/1001] Quantized & saved: quantized_photos\image_363.jpg
+2025-02-03 18:23:22,232 - INFO - [297/1001] Quantized & saved: quantized_photos\image_364.jpg
+2025-02-03 18:23:22,945 - INFO - [298/1001] Quantized & saved: quantized_photos\image_365.jpg
+2025-02-03 18:23:23,214 - INFO - [299/1001] Quantized & saved: quantized_photos\image_366.jpg
+2025-02-03 18:23:23,575 - INFO - [300/1001] Quantized & saved: quantized_photos\image_367.jpg
+2025-02-03 18:23:24,099 - INFO - [301/1001] Quantized & saved: quantized_photos\image_368.jpg
+2025-02-03 18:23:24,423 - INFO - [302/1001] Quantized & saved: quantized_photos\image_369.jpg
+2025-02-03 18:23:24,800 - INFO - [303/1001] Quantized & saved: quantized_photos\image_37.jpg
+2025-02-03 18:23:25,138 - INFO - [304/1001] Quantized & saved: quantized_photos\image_370.jpg
+2025-02-03 18:23:25,551 - INFO - [305/1001] Quantized & saved: quantized_photos\image_371.jpg
+2025-02-03 18:23:25,958 - INFO - [306/1001] Quantized & saved: quantized_photos\image_372.jpg
+2025-02-03 18:23:26,231 - INFO - [307/1001] Quantized & saved: quantized_photos\image_373.jpg
+2025-02-03 18:23:26,442 - INFO - [308/1001] Quantized & saved: quantized_photos\image_374.jpg
+2025-02-03 18:23:26,735 - INFO - [309/1001] Quantized & saved: quantized_photos\image_375.jpg
+2025-02-03 18:23:27,114 - INFO - [310/1001] Quantized & saved: quantized_photos\image_376.jpg
+2025-02-03 18:23:27,447 - INFO - [311/1001] Quantized & saved: quantized_photos\image_377.jpg
+2025-02-03 18:23:27,772 - INFO - [312/1001] Quantized & saved: quantized_photos\image_378.jpg
+2025-02-03 18:23:28,299 - INFO - [313/1001] Quantized & saved: quantized_photos\image_379.jpg
+2025-02-03 18:23:28,605 - INFO - [314/1001] Quantized & saved: quantized_photos\image_38.jpg
+2025-02-03 18:23:29,048 - INFO - [315/1001] Quantized & saved: quantized_photos\image_380.jpg
+2025-02-03 18:23:29,391 - INFO - [316/1001] Quantized & saved: quantized_photos\image_381.jpg
+2025-02-03 18:23:29,747 - INFO - [317/1001] Quantized & saved: quantized_photos\image_382.jpg
+2025-02-03 18:23:29,940 - INFO - [318/1001] Quantized & saved: quantized_photos\image_383.jpg
+2025-02-03 18:23:30,214 - INFO - [319/1001] Quantized & saved: quantized_photos\image_384.jpg
+2025-02-03 18:23:30,632 - INFO - [320/1001] Quantized & saved: quantized_photos\image_385.jpg
+2025-02-03 18:23:30,911 - INFO - [321/1001] Quantized & saved: quantized_photos\image_386.jpg
+2025-02-03 18:23:31,182 - INFO - [322/1001] Quantized & saved: quantized_photos\image_387.jpg
+2025-02-03 18:23:31,562 - INFO - [323/1001] Quantized & saved: quantized_photos\image_388.jpg
+2025-02-03 18:23:31,893 - INFO - [324/1001] Quantized & saved: quantized_photos\image_389.jpg
+2025-02-03 18:23:32,109 - INFO - [325/1001] Quantized & saved: quantized_photos\image_39.jpg
+2025-02-03 18:23:32,482 - INFO - [326/1001] Quantized & saved: quantized_photos\image_390.jpg
+2025-02-03 18:23:32,826 - INFO - [327/1001] Quantized & saved: quantized_photos\image_391.jpg
+2025-02-03 18:23:33,154 - INFO - [328/1001] Quantized & saved: quantized_photos\image_392.jpg
+2025-02-03 18:23:33,544 - INFO - [329/1001] Quantized & saved: quantized_photos\image_393.jpg
+2025-02-03 18:23:33,775 - INFO - [330/1001] Quantized & saved: quantized_photos\image_394.jpg
+2025-02-03 18:23:34,203 - INFO - [331/1001] Quantized & saved: quantized_photos\image_395.jpg
+2025-02-03 18:23:34,641 - INFO - [332/1001] Quantized & saved: quantized_photos\image_396.jpg
+2025-02-03 18:23:34,872 - INFO - [333/1001] Quantized & saved: quantized_photos\image_397.jpg
+2025-02-03 18:23:35,221 - INFO - [334/1001] Quantized & saved: quantized_photos\image_398.jpg
+2025-02-03 18:23:35,803 - INFO - [335/1001] Quantized & saved: quantized_photos\image_399.jpg
+2025-02-03 18:23:36,313 - INFO - [336/1001] Quantized & saved: quantized_photos\image_4.jpg
+2025-02-03 18:23:36,581 - INFO - [337/1001] Quantized & saved: quantized_photos\image_40.jpg
+2025-02-03 18:23:37,005 - INFO - [338/1001] Quantized & saved: quantized_photos\image_400.jpg
+2025-02-03 18:23:37,441 - INFO - [339/1001] Quantized & saved: quantized_photos\image_401.jpg
+2025-02-03 18:23:37,750 - INFO - [340/1001] Quantized & saved: quantized_photos\image_402.jpg
+2025-02-03 18:23:38,142 - INFO - [341/1001] Quantized & saved: quantized_photos\image_403.jpg
+2025-02-03 18:23:38,431 - INFO - [342/1001] Quantized & saved: quantized_photos\image_404.jpg
+2025-02-03 18:23:38,788 - INFO - [343/1001] Quantized & saved: quantized_photos\image_405.jpg
+2025-02-03 18:23:39,099 - INFO - [344/1001] Quantized & saved: quantized_photos\image_406.jpg
+2025-02-03 18:23:39,348 - INFO - [345/1001] Quantized & saved: quantized_photos\image_407.jpg
+2025-02-03 18:23:39,649 - INFO - [346/1001] Quantized & saved: quantized_photos\image_408.jpg
+2025-02-03 18:23:39,943 - INFO - [347/1001] Quantized & saved: quantized_photos\image_409.jpg
+2025-02-03 18:23:40,414 - INFO - [348/1001] Quantized & saved: quantized_photos\image_41.jpg
+2025-02-03 18:23:40,714 - INFO - [349/1001] Quantized & saved: quantized_photos\image_410.jpg
+2025-02-03 18:23:40,969 - INFO - [350/1001] Quantized & saved: quantized_photos\image_411.jpg
+2025-02-03 18:23:41,245 - INFO - [351/1001] Quantized & saved: quantized_photos\image_412.jpg
+2025-02-03 18:23:41,581 - INFO - [352/1001] Quantized & saved: quantized_photos\image_413.jpg
+2025-02-03 18:23:41,909 - INFO - [353/1001] Quantized & saved: quantized_photos\image_414.jpg
+2025-02-03 18:23:42,150 - INFO - [354/1001] Quantized & saved: quantized_photos\image_415.jpg
+2025-02-03 18:23:42,523 - INFO - [355/1001] Quantized & saved: quantized_photos\image_416.jpg
+2025-02-03 18:23:42,850 - INFO - [356/1001] Quantized & saved: quantized_photos\image_417.jpg
+2025-02-03 18:23:43,126 - INFO - [357/1001] Quantized & saved: quantized_photos\image_418.jpg
+2025-02-03 18:23:43,372 - INFO - [358/1001] Quantized & saved: quantized_photos\image_419.jpg
+2025-02-03 18:23:43,683 - INFO - [359/1001] Quantized & saved: quantized_photos\image_42.jpg
+2025-02-03 18:23:44,061 - INFO - [360/1001] Quantized & saved: quantized_photos\image_420.jpg
+2025-02-03 18:23:44,466 - INFO - [361/1001] Quantized & saved: quantized_photos\image_421.jpg
+2025-02-03 18:23:44,785 - INFO - [362/1001] Quantized & saved: quantized_photos\image_422.jpg
+2025-02-03 18:23:45,142 - INFO - [363/1001] Quantized & saved: quantized_photos\image_423.jpg
+2025-02-03 18:23:45,437 - INFO - [364/1001] Quantized & saved: quantized_photos\image_424.jpg
+2025-02-03 18:23:45,687 - INFO - [365/1001] Quantized & saved: quantized_photos\image_425.jpg
+2025-02-03 18:23:46,073 - INFO - [366/1001] Quantized & saved: quantized_photos\image_426.jpg
+2025-02-03 18:23:46,374 - INFO - [367/1001] Quantized & saved: quantized_photos\image_427.jpg
+2025-02-03 18:23:46,601 - INFO - [368/1001] Quantized & saved: quantized_photos\image_428.jpg
+2025-02-03 18:23:47,030 - INFO - [369/1001] Quantized & saved: quantized_photos\image_429.jpg
+2025-02-03 18:23:47,506 - INFO - [370/1001] Quantized & saved: quantized_photos\image_43.jpg
+2025-02-03 18:23:47,734 - INFO - [371/1001] Quantized & saved: quantized_photos\image_430.jpg
+2025-02-03 18:23:48,063 - INFO - [372/1001] Quantized & saved: quantized_photos\image_431.jpg
+2025-02-03 18:23:48,500 - INFO - [373/1001] Quantized & saved: quantized_photos\image_432.jpg
+2025-02-03 18:23:48,834 - INFO - [374/1001] Quantized & saved: quantized_photos\image_433.jpg
+2025-02-03 18:23:49,196 - INFO - [375/1001] Quantized & saved: quantized_photos\image_434.jpg
+2025-02-03 18:23:49,758 - INFO - [376/1001] Quantized & saved: quantized_photos\image_435.jpg
+2025-02-03 18:23:50,169 - INFO - [377/1001] Quantized & saved: quantized_photos\image_436.jpg
+2025-02-03 18:23:50,646 - INFO - [378/1001] Quantized & saved: quantized_photos\image_437.jpg
+2025-02-03 18:23:51,417 - INFO - [379/1001] Quantized & saved: quantized_photos\image_438.jpg
+2025-02-03 18:23:51,760 - INFO - [380/1001] Quantized & saved: quantized_photos\image_439.jpg
+2025-02-03 18:23:52,239 - INFO - [381/1001] Quantized & saved: quantized_photos\image_44.jpg
+2025-02-03 18:23:52,557 - INFO - [382/1001] Quantized & saved: quantized_photos\image_440.jpg
+2025-02-03 18:23:52,867 - INFO - [383/1001] Quantized & saved: quantized_photos\image_441.jpg
+2025-02-03 18:23:53,065 - INFO - [384/1001] Quantized & saved: quantized_photos\image_442.jpg
+2025-02-03 18:23:53,614 - INFO - [385/1001] Quantized & saved: quantized_photos\image_443.jpg
+2025-02-03 18:23:53,823 - INFO - [386/1001] Quantized & saved: quantized_photos\image_444.jpg
+2025-02-03 18:23:54,267 - INFO - [387/1001] Quantized & saved: quantized_photos\image_445.jpg
+2025-02-03 18:23:54,589 - INFO - [388/1001] Quantized & saved: quantized_photos\image_446.jpg
+2025-02-03 18:23:55,064 - INFO - [389/1001] Quantized & saved: quantized_photos\image_447.jpg
+2025-02-03 18:23:55,470 - INFO - [390/1001] Quantized & saved: quantized_photos\image_448.jpg
+2025-02-03 18:23:55,802 - INFO - [391/1001] Quantized & saved: quantized_photos\image_449.jpg
+2025-02-03 18:23:56,184 - INFO - [392/1001] Quantized & saved: quantized_photos\image_45.jpg
+2025-02-03 18:23:56,692 - INFO - [393/1001] Quantized & saved: quantized_photos\image_450.jpg
+2025-02-03 18:23:57,188 - INFO - [394/1001] Quantized & saved: quantized_photos\image_451.jpg
+2025-02-03 18:23:57,525 - INFO - [395/1001] Quantized & saved: quantized_photos\image_452.jpg
+2025-02-03 18:23:57,824 - INFO - [396/1001] Quantized & saved: quantized_photos\image_453.jpg
+2025-02-03 18:23:58,131 - INFO - [397/1001] Quantized & saved: quantized_photos\image_454.jpg
+2025-02-03 18:23:58,524 - INFO - [398/1001] Quantized & saved: quantized_photos\image_455.jpg
+2025-02-03 18:23:58,914 - INFO - [399/1001] Quantized & saved: quantized_photos\image_456.jpg
+2025-02-03 18:23:59,426 - INFO - [400/1001] Quantized & saved: quantized_photos\image_457.jpg
+2025-02-03 18:23:59,715 - INFO - [401/1001] Quantized & saved: quantized_photos\image_458.jpg
+2025-02-03 18:24:00,022 - INFO - [402/1001] Quantized & saved: quantized_photos\image_459.jpg
+2025-02-03 18:24:00,200 - INFO - [403/1001] Quantized & saved: quantized_photos\image_46.jpg
+2025-02-03 18:24:00,653 - INFO - [404/1001] Quantized & saved: quantized_photos\image_460.jpg
+2025-02-03 18:24:01,127 - INFO - [405/1001] Quantized & saved: quantized_photos\image_461.jpg
+2025-02-03 18:24:01,488 - INFO - [406/1001] Quantized & saved: quantized_photos\image_462.jpg
+2025-02-03 18:24:01,814 - INFO - [407/1001] Quantized & saved: quantized_photos\image_463.jpg
+2025-02-03 18:24:02,122 - INFO - [408/1001] Quantized & saved: quantized_photos\image_464.jpg
+2025-02-03 18:24:02,465 - INFO - [409/1001] Quantized & saved: quantized_photos\image_465.jpg
+2025-02-03 18:24:02,728 - INFO - [410/1001] Quantized & saved: quantized_photos\image_466.jpg
+2025-02-03 18:24:02,928 - INFO - [411/1001] Quantized & saved: quantized_photos\image_467.jpg
+2025-02-03 18:24:03,364 - INFO - [412/1001] Quantized & saved: quantized_photos\image_468.jpg
+2025-02-03 18:24:03,817 - INFO - [413/1001] Quantized & saved: quantized_photos\image_469.jpg
+2025-02-03 18:24:04,070 - INFO - [414/1001] Quantized & saved: quantized_photos\image_47.jpg
+2025-02-03 18:24:04,586 - INFO - [415/1001] Quantized & saved: quantized_photos\image_470.jpg
+2025-02-03 18:24:04,886 - INFO - [416/1001] Quantized & saved: quantized_photos\image_471.jpg
+2025-02-03 18:24:05,040 - INFO - [417/1001] Quantized & saved: quantized_photos\image_472.jpg
+2025-02-03 18:24:05,506 - INFO - [418/1001] Quantized & saved: quantized_photos\image_473.jpg
+2025-02-03 18:24:05,895 - INFO - [419/1001] Quantized & saved: quantized_photos\image_474.jpg
+2025-02-03 18:24:06,094 - INFO - [420/1001] Quantized & saved: quantized_photos\image_475.jpg
+2025-02-03 18:24:06,372 - INFO - [421/1001] Quantized & saved: quantized_photos\image_476.jpg
+2025-02-03 18:24:06,722 - INFO - [422/1001] Quantized & saved: quantized_photos\image_477.jpg
+2025-02-03 18:24:06,937 - INFO - [423/1001] Quantized & saved: quantized_photos\image_478.jpg
+2025-02-03 18:24:07,240 - INFO - [424/1001] Quantized & saved: quantized_photos\image_479.jpg
+2025-02-03 18:24:07,707 - INFO - [425/1001] Quantized & saved: quantized_photos\image_48.jpg
+2025-02-03 18:24:08,151 - INFO - [426/1001] Quantized & saved: quantized_photos\image_480.jpg
+2025-02-03 18:24:08,489 - INFO - [427/1001] Quantized & saved: quantized_photos\image_481.jpg
+2025-02-03 18:24:08,757 - INFO - [428/1001] Quantized & saved: quantized_photos\image_482.jpg
+2025-02-03 18:24:09,013 - INFO - [429/1001] Quantized & saved: quantized_photos\image_483.jpg
+2025-02-03 18:24:09,316 - INFO - [430/1001] Quantized & saved: quantized_photos\image_484.jpg
+2025-02-03 18:24:09,638 - INFO - [431/1001] Quantized & saved: quantized_photos\image_485.jpg
+2025-02-03 18:24:09,858 - INFO - [432/1001] Quantized & saved: quantized_photos\image_486.jpg
+2025-02-03 18:24:10,358 - INFO - [433/1001] Quantized & saved: quantized_photos\image_487.jpg
+2025-02-03 18:24:10,619 - INFO - [434/1001] Quantized & saved: quantized_photos\image_488.jpg
+2025-02-03 18:24:11,007 - INFO - [435/1001] Quantized & saved: quantized_photos\image_489.jpg
+2025-02-03 18:24:11,363 - INFO - [436/1001] Quantized & saved: quantized_photos\image_49.jpg
+2025-02-03 18:24:11,645 - INFO - [437/1001] Quantized & saved: quantized_photos\image_490.jpg
+2025-02-03 18:24:11,947 - INFO - [438/1001] Quantized & saved: quantized_photos\image_491.jpg
+2025-02-03 18:24:12,512 - INFO - [439/1001] Quantized & saved: quantized_photos\image_492.jpg
+2025-02-03 18:24:12,793 - INFO - [440/1001] Quantized & saved: quantized_photos\image_493.jpg
+2025-02-03 18:24:13,106 - INFO - [441/1001] Quantized & saved: quantized_photos\image_494.jpg
+2025-02-03 18:24:13,479 - INFO - [442/1001] Quantized & saved: quantized_photos\image_495.jpg
+2025-02-03 18:24:13,693 - INFO - [443/1001] Quantized & saved: quantized_photos\image_496.jpg
+2025-02-03 18:24:13,989 - INFO - [444/1001] Quantized & saved: quantized_photos\image_497.jpg
+2025-02-03 18:24:14,320 - INFO - [445/1001] Quantized & saved: quantized_photos\image_498.jpg
+2025-02-03 18:24:14,689 - INFO - [446/1001] Quantized & saved: quantized_photos\image_499.jpg
+2025-02-03 18:24:15,180 - INFO - [447/1001] Quantized & saved: quantized_photos\image_5.jpg
+2025-02-03 18:24:15,456 - INFO - [448/1001] Quantized & saved: quantized_photos\image_50.jpg
+2025-02-03 18:24:15,892 - INFO - [449/1001] Quantized & saved: quantized_photos\image_500.jpg
+2025-02-03 18:24:16,206 - INFO - [450/1001] Quantized & saved: quantized_photos\image_501.jpg
+2025-02-03 18:24:16,549 - INFO - [451/1001] Quantized & saved: quantized_photos\image_502.jpg
+2025-02-03 18:24:16,780 - INFO - [452/1001] Quantized & saved: quantized_photos\image_503.jpg
+2025-02-03 18:24:17,092 - INFO - [453/1001] Quantized & saved: quantized_photos\image_504.jpg
+2025-02-03 18:24:17,375 - INFO - [454/1001] Quantized & saved: quantized_photos\image_505.jpg
+2025-02-03 18:24:17,684 - INFO - [455/1001] Quantized & saved: quantized_photos\image_506.jpg
+2025-02-03 18:24:18,098 - INFO - [456/1001] Quantized & saved: quantized_photos\image_507.jpg
+2025-02-03 18:24:18,516 - INFO - [457/1001] Quantized & saved: quantized_photos\image_508.jpg
+2025-02-03 18:24:18,812 - INFO - [458/1001] Quantized & saved: quantized_photos\image_509.jpg
+2025-02-03 18:24:19,292 - INFO - [459/1001] Quantized & saved: quantized_photos\image_51.jpg
+2025-02-03 18:24:19,785 - INFO - [460/1001] Quantized & saved: quantized_photos\image_510.jpg
+2025-02-03 18:24:20,149 - INFO - [461/1001] Quantized & saved: quantized_photos\image_511.jpg
+2025-02-03 18:24:20,586 - INFO - [462/1001] Quantized & saved: quantized_photos\image_512.jpg
+2025-02-03 18:24:21,117 - INFO - [463/1001] Quantized & saved: quantized_photos\image_513.jpg
+2025-02-03 18:24:21,454 - INFO - [464/1001] Quantized & saved: quantized_photos\image_514.jpg
+2025-02-03 18:24:21,713 - INFO - [465/1001] Quantized & saved: quantized_photos\image_515.jpg
+2025-02-03 18:24:21,986 - INFO - [466/1001] Quantized & saved: quantized_photos\image_516.jpg
+2025-02-03 18:24:22,190 - INFO - [467/1001] Quantized & saved: quantized_photos\image_517.jpg
+2025-02-03 18:24:22,473 - INFO - [468/1001] Quantized & saved: quantized_photos\image_518.jpg
+2025-02-03 18:24:22,887 - INFO - [469/1001] Quantized & saved: quantized_photos\image_519.jpg
+2025-02-03 18:24:23,184 - INFO - [470/1001] Quantized & saved: quantized_photos\image_52.jpg
+2025-02-03 18:24:23,698 - INFO - [471/1001] Quantized & saved: quantized_photos\image_520.jpg
+2025-02-03 18:24:24,064 - INFO - [472/1001] Quantized & saved: quantized_photos\image_521.jpg
+2025-02-03 18:24:24,421 - INFO - [473/1001] Quantized & saved: quantized_photos\image_522.jpg
+2025-02-03 18:24:24,699 - INFO - [474/1001] Quantized & saved: quantized_photos\image_523.jpg
+2025-02-03 18:24:24,995 - INFO - [475/1001] Quantized & saved: quantized_photos\image_524.jpg
+2025-02-03 18:24:25,248 - INFO - [476/1001] Quantized & saved: quantized_photos\image_525.jpg
+2025-02-03 18:24:25,584 - INFO - [477/1001] Quantized & saved: quantized_photos\image_526.jpg
+2025-02-03 18:24:26,026 - INFO - [478/1001] Quantized & saved: quantized_photos\image_527.jpg
+2025-02-03 18:24:26,387 - INFO - [479/1001] Quantized & saved: quantized_photos\image_528.jpg
+2025-02-03 18:24:26,638 - INFO - [480/1001] Quantized & saved: quantized_photos\image_529.jpg
+2025-02-03 18:24:26,979 - INFO - [481/1001] Quantized & saved: quantized_photos\image_53.jpg
+2025-02-03 18:24:27,530 - INFO - [482/1001] Quantized & saved: quantized_photos\image_530.jpg
+2025-02-03 18:24:27,913 - INFO - [483/1001] Quantized & saved: quantized_photos\image_531.jpg
+2025-02-03 18:24:28,298 - INFO - [484/1001] Quantized & saved: quantized_photos\image_532.jpg
+2025-02-03 18:24:28,537 - INFO - [485/1001] Quantized & saved: quantized_photos\image_533.jpg
+2025-02-03 18:24:29,001 - INFO - [486/1001] Quantized & saved: quantized_photos\image_534.jpg
+2025-02-03 18:24:29,402 - INFO - [487/1001] Quantized & saved: quantized_photos\image_535.jpg
+2025-02-03 18:24:29,742 - INFO - [488/1001] Quantized & saved: quantized_photos\image_536.jpg
+2025-02-03 18:24:30,026 - INFO - [489/1001] Quantized & saved: quantized_photos\image_537.jpg
+2025-02-03 18:24:30,320 - INFO - [490/1001] Quantized & saved: quantized_photos\image_538.jpg
+2025-02-03 18:24:30,654 - INFO - [491/1001] Quantized & saved: quantized_photos\image_539.jpg
+2025-02-03 18:24:31,090 - INFO - [492/1001] Quantized & saved: quantized_photos\image_54.jpg
+2025-02-03 18:24:31,383 - INFO - [493/1001] Quantized & saved: quantized_photos\image_540.jpg
+2025-02-03 18:24:31,799 - INFO - [494/1001] Quantized & saved: quantized_photos\image_541.jpg
+2025-02-03 18:24:32,103 - INFO - [495/1001] Quantized & saved: quantized_photos\image_542.jpg
+2025-02-03 18:24:32,649 - INFO - [496/1001] Quantized & saved: quantized_photos\image_543.jpg
+2025-02-03 18:24:33,004 - INFO - [497/1001] Quantized & saved: quantized_photos\image_544.jpg
+2025-02-03 18:24:33,535 - INFO - [498/1001] Quantized & saved: quantized_photos\image_545.jpg
+2025-02-03 18:24:33,814 - INFO - [499/1001] Quantized & saved: quantized_photos\image_546.jpg
+2025-02-03 18:24:34,087 - INFO - [500/1001] Quantized & saved: quantized_photos\image_547.jpg
+2025-02-03 18:24:34,541 - INFO - [501/1001] Quantized & saved: quantized_photos\image_548.jpg
+2025-02-03 18:24:34,919 - INFO - [502/1001] Quantized & saved: quantized_photos\image_549.jpg
+2025-02-03 18:24:35,217 - INFO - [503/1001] Quantized & saved: quantized_photos\image_55.jpg
+2025-02-03 18:24:35,660 - INFO - [504/1001] Quantized & saved: quantized_photos\image_550.jpg
+2025-02-03 18:24:35,895 - INFO - [505/1001] Quantized & saved: quantized_photos\image_551.jpg
+2025-02-03 18:24:36,214 - INFO - [506/1001] Quantized & saved: quantized_photos\image_552.jpg
+2025-02-03 18:24:36,461 - INFO - [507/1001] Quantized & saved: quantized_photos\image_553.jpg
+2025-02-03 18:24:36,742 - INFO - [508/1001] Quantized & saved: quantized_photos\image_554.jpg
+2025-02-03 18:24:37,234 - INFO - [509/1001] Quantized & saved: quantized_photos\image_555.jpg
+2025-02-03 18:24:37,631 - INFO - [510/1001] Quantized & saved: quantized_photos\image_556.jpg
+2025-02-03 18:24:37,934 - INFO - [511/1001] Quantized & saved: quantized_photos\image_557.jpg
+2025-02-03 18:24:38,286 - INFO - [512/1001] Quantized & saved: quantized_photos\image_558.jpg
+2025-02-03 18:24:38,861 - INFO - [513/1001] Quantized & saved: quantized_photos\image_559.jpg
+2025-02-03 18:24:39,167 - INFO - [514/1001] Quantized & saved: quantized_photos\image_56.jpg
+2025-02-03 18:24:39,621 - INFO - [515/1001] Quantized & saved: quantized_photos\image_560.jpg
+2025-02-03 18:24:40,063 - INFO - [516/1001] Quantized & saved: quantized_photos\image_561.jpg
+2025-02-03 18:24:40,683 - INFO - [517/1001] Quantized & saved: quantized_photos\image_562.jpg
+2025-02-03 18:24:41,128 - INFO - [518/1001] Quantized & saved: quantized_photos\image_563.jpg
+2025-02-03 18:24:41,528 - INFO - [519/1001] Quantized & saved: quantized_photos\image_564.jpg
+2025-02-03 18:24:41,862 - INFO - [520/1001] Quantized & saved: quantized_photos\image_565.jpg
+2025-02-03 18:24:42,278 - INFO - [521/1001] Quantized & saved: quantized_photos\image_566.jpg
+2025-02-03 18:24:42,566 - INFO - [522/1001] Quantized & saved: quantized_photos\image_567.jpg
+2025-02-03 18:24:42,792 - INFO - [523/1001] Quantized & saved: quantized_photos\image_568.jpg
+2025-02-03 18:24:43,042 - INFO - [524/1001] Quantized & saved: quantized_photos\image_569.jpg
+2025-02-03 18:24:43,539 - INFO - [525/1001] Quantized & saved: quantized_photos\image_57.jpg
+2025-02-03 18:24:43,873 - INFO - [526/1001] Quantized & saved: quantized_photos\image_570.jpg
+2025-02-03 18:24:44,283 - INFO - [527/1001] Quantized & saved: quantized_photos\image_571.jpg
+2025-02-03 18:24:44,578 - INFO - [528/1001] Quantized & saved: quantized_photos\image_572.jpg
+2025-02-03 18:24:44,887 - INFO - [529/1001] Quantized & saved: quantized_photos\image_573.jpg
+2025-02-03 18:24:45,356 - INFO - [530/1001] Quantized & saved: quantized_photos\image_574.jpg
+2025-02-03 18:24:45,626 - INFO - [531/1001] Quantized & saved: quantized_photos\image_575.jpg
+2025-02-03 18:24:45,809 - INFO - [532/1001] Quantized & saved: quantized_photos\image_576.jpg
+2025-02-03 18:24:46,087 - INFO - [533/1001] Quantized & saved: quantized_photos\image_577.jpg
+2025-02-03 18:24:46,627 - INFO - [534/1001] Quantized & saved: quantized_photos\image_578.jpg
+2025-02-03 18:24:46,937 - INFO - [535/1001] Quantized & saved: quantized_photos\image_579.jpg
+2025-02-03 18:24:47,314 - INFO - [536/1001] Quantized & saved: quantized_photos\image_58.jpg
+2025-02-03 18:24:47,616 - INFO - [537/1001] Quantized & saved: quantized_photos\image_580.jpg
+2025-02-03 18:24:48,145 - INFO - [538/1001] Quantized & saved: quantized_photos\image_581.jpg
+2025-02-03 18:24:48,690 - INFO - [539/1001] Quantized & saved: quantized_photos\image_582.jpg
+2025-02-03 18:24:49,134 - INFO - [540/1001] Quantized & saved: quantized_photos\image_583.jpg
+2025-02-03 18:24:49,376 - INFO - [541/1001] Quantized & saved: quantized_photos\image_584.jpg
+2025-02-03 18:24:49,776 - INFO - [542/1001] Quantized & saved: quantized_photos\image_585.jpg
+2025-02-03 18:24:50,253 - INFO - [543/1001] Quantized & saved: quantized_photos\image_586.jpg
+2025-02-03 18:24:50,627 - INFO - [544/1001] Quantized & saved: quantized_photos\image_587.jpg
+2025-02-03 18:24:51,103 - INFO - [545/1001] Quantized & saved: quantized_photos\image_588.jpg
+2025-02-03 18:24:51,452 - INFO - [546/1001] Quantized & saved: quantized_photos\image_589.jpg
+2025-02-03 18:24:51,960 - INFO - [547/1001] Quantized & saved: quantized_photos\image_59.jpg
+2025-02-03 18:24:52,350 - INFO - [548/1001] Quantized & saved: quantized_photos\image_590.jpg
+2025-02-03 18:24:52,713 - INFO - [549/1001] Quantized & saved: quantized_photos\image_591.jpg
+2025-02-03 18:24:53,022 - INFO - [550/1001] Quantized & saved: quantized_photos\image_592.jpg
+2025-02-03 18:24:53,413 - INFO - [551/1001] Quantized & saved: quantized_photos\image_593.jpg
+2025-02-03 18:24:53,660 - INFO - [552/1001] Quantized & saved: quantized_photos\image_594.jpg
+2025-02-03 18:24:54,111 - INFO - [553/1001] Quantized & saved: quantized_photos\image_595.jpg
+2025-02-03 18:24:54,529 - INFO - [554/1001] Quantized & saved: quantized_photos\image_596.jpg
+2025-02-03 18:24:55,025 - INFO - [555/1001] Quantized & saved: quantized_photos\image_597.jpg
+2025-02-03 18:24:55,489 - INFO - [556/1001] Quantized & saved: quantized_photos\image_598.jpg
+2025-02-03 18:24:56,015 - INFO - [557/1001] Quantized & saved: quantized_photos\image_599.jpg
+2025-02-03 18:24:56,357 - INFO - [558/1001] Quantized & saved: quantized_photos\image_6.jpg
+2025-02-03 18:24:56,835 - INFO - [559/1001] Quantized & saved: quantized_photos\image_60.jpg
+2025-02-03 18:24:57,159 - INFO - [560/1001] Quantized & saved: quantized_photos\image_600.jpg
+2025-02-03 18:24:57,480 - INFO - [561/1001] Quantized & saved: quantized_photos\image_601.jpg
+2025-02-03 18:24:57,811 - INFO - [562/1001] Quantized & saved: quantized_photos\image_602.jpg
+2025-02-03 18:24:58,175 - INFO - [563/1001] Quantized & saved: quantized_photos\image_603.jpg
+2025-02-03 18:24:58,593 - INFO - [564/1001] Quantized & saved: quantized_photos\image_604.jpg
+2025-02-03 18:24:58,796 - INFO - [565/1001] Quantized & saved: quantized_photos\image_605.jpg
+2025-02-03 18:24:59,122 - INFO - [566/1001] Quantized & saved: quantized_photos\image_606.jpg
+2025-02-03 18:24:59,431 - INFO - [567/1001] Quantized & saved: quantized_photos\image_607.jpg
+2025-02-03 18:24:59,854 - INFO - [568/1001] Quantized & saved: quantized_photos\image_608.jpg
+2025-02-03 18:25:00,155 - INFO - [569/1001] Quantized & saved: quantized_photos\image_609.jpg
+2025-02-03 18:25:00,530 - INFO - [570/1001] Quantized & saved: quantized_photos\image_61.jpg
+2025-02-03 18:25:00,969 - INFO - [571/1001] Quantized & saved: quantized_photos\image_610.jpg
+2025-02-03 18:25:01,428 - INFO - [572/1001] Quantized & saved: quantized_photos\image_611.jpg
+2025-02-03 18:25:01,769 - INFO - [573/1001] Quantized & saved: quantized_photos\image_612.jpg
+2025-02-03 18:25:02,085 - INFO - [574/1001] Quantized & saved: quantized_photos\image_613.jpg
+2025-02-03 18:25:02,586 - INFO - [575/1001] Quantized & saved: quantized_photos\image_614.jpg
+2025-02-03 18:25:02,759 - INFO - [576/1001] Quantized & saved: quantized_photos\image_615.jpg
+2025-02-03 18:25:03,036 - INFO - [577/1001] Quantized & saved: quantized_photos\image_616.jpg
+2025-02-03 18:25:03,322 - INFO - [578/1001] Quantized & saved: quantized_photos\image_617.jpg
+2025-02-03 18:25:03,807 - INFO - [579/1001] Quantized & saved: quantized_photos\image_618.jpg
+2025-02-03 18:25:04,234 - INFO - [580/1001] Quantized & saved: quantized_photos\image_619.jpg
+2025-02-03 18:25:04,614 - INFO - [581/1001] Quantized & saved: quantized_photos\image_62.jpg
+2025-02-03 18:25:04,988 - INFO - [582/1001] Quantized & saved: quantized_photos\image_620.jpg
+2025-02-03 18:25:05,428 - INFO - [583/1001] Quantized & saved: quantized_photos\image_621.jpg
+2025-02-03 18:25:05,753 - INFO - [584/1001] Quantized & saved: quantized_photos\image_622.jpg
+2025-02-03 18:25:06,134 - INFO - [585/1001] Quantized & saved: quantized_photos\image_623.jpg
+2025-02-03 18:25:06,650 - INFO - [586/1001] Quantized & saved: quantized_photos\image_624.jpg
+2025-02-03 18:25:07,030 - INFO - [587/1001] Quantized & saved: quantized_photos\image_625.jpg
+2025-02-03 18:25:07,310 - INFO - [588/1001] Quantized & saved: quantized_photos\image_626.jpg
+2025-02-03 18:25:07,794 - INFO - [589/1001] Quantized & saved: quantized_photos\image_627.jpg
+2025-02-03 18:25:08,079 - INFO - [590/1001] Quantized & saved: quantized_photos\image_628.jpg
+2025-02-03 18:25:08,415 - INFO - [591/1001] Quantized & saved: quantized_photos\image_629.jpg
+2025-02-03 18:25:08,750 - INFO - [592/1001] Quantized & saved: quantized_photos\image_63.jpg
+2025-02-03 18:25:09,160 - INFO - [593/1001] Quantized & saved: quantized_photos\image_630.jpg
+2025-02-03 18:25:09,403 - INFO - [594/1001] Quantized & saved: quantized_photos\image_631.jpg
+2025-02-03 18:25:09,853 - INFO - [595/1001] Quantized & saved: quantized_photos\image_632.jpg
+2025-02-03 18:25:10,343 - INFO - [596/1001] Quantized & saved: quantized_photos\image_633.jpg
+2025-02-03 18:25:10,653 - INFO - [597/1001] Quantized & saved: quantized_photos\image_634.jpg
+2025-02-03 18:25:10,948 - INFO - [598/1001] Quantized & saved: quantized_photos\image_635.jpg
+2025-02-03 18:25:11,133 - INFO - [599/1001] Quantized & saved: quantized_photos\image_636.jpg
+2025-02-03 18:25:11,444 - INFO - [600/1001] Quantized & saved: quantized_photos\image_637.jpg
+2025-02-03 18:25:11,760 - INFO - [601/1001] Quantized & saved: quantized_photos\image_638.jpg
+2025-02-03 18:25:12,149 - INFO - [602/1001] Quantized & saved: quantized_photos\image_639.jpg
+2025-02-03 18:25:12,505 - INFO - [603/1001] Quantized & saved: quantized_photos\image_64.jpg
+2025-02-03 18:25:13,115 - INFO - [604/1001] Quantized & saved: quantized_photos\image_640.jpg
+2025-02-03 18:25:13,442 - INFO - [605/1001] Quantized & saved: quantized_photos\image_641.jpg
+2025-02-03 18:25:13,694 - INFO - [606/1001] Quantized & saved: quantized_photos\image_642.jpg
+2025-02-03 18:25:13,911 - INFO - [607/1001] Quantized & saved: quantized_photos\image_643.jpg
+2025-02-03 18:25:14,366 - INFO - [608/1001] Quantized & saved: quantized_photos\image_644.jpg
+2025-02-03 18:25:14,695 - INFO - [609/1001] Quantized & saved: quantized_photos\image_645.jpg
+2025-02-03 18:25:15,281 - INFO - [610/1001] Quantized & saved: quantized_photos\image_646.jpg
+2025-02-03 18:25:15,697 - INFO - [611/1001] Quantized & saved: quantized_photos\image_647.jpg
+2025-02-03 18:25:16,173 - INFO - [612/1001] Quantized & saved: quantized_photos\image_648.jpg
+2025-02-03 18:25:16,579 - INFO - [613/1001] Quantized & saved: quantized_photos\image_649.jpg
+2025-02-03 18:25:17,122 - INFO - [614/1001] Quantized & saved: quantized_photos\image_65.jpg
+2025-02-03 18:25:17,570 - INFO - [615/1001] Quantized & saved: quantized_photos\image_650.jpg
+2025-02-03 18:25:17,993 - INFO - [616/1001] Quantized & saved: quantized_photos\image_651.jpg
+2025-02-03 18:25:18,254 - INFO - [617/1001] Quantized & saved: quantized_photos\image_652.jpg
+2025-02-03 18:25:18,608 - INFO - [618/1001] Quantized & saved: quantized_photos\image_653.jpg
+2025-02-03 18:25:18,953 - INFO - [619/1001] Quantized & saved: quantized_photos\image_654.jpg
+2025-02-03 18:25:19,317 - INFO - [620/1001] Quantized & saved: quantized_photos\image_655.jpg
+2025-02-03 18:25:19,712 - INFO - [621/1001] Quantized & saved: quantized_photos\image_656.jpg
+2025-02-03 18:25:20,307 - INFO - [622/1001] Quantized & saved: quantized_photos\image_657.jpg
+2025-02-03 18:25:20,615 - INFO - [623/1001] Quantized & saved: quantized_photos\image_658.jpg
+2025-02-03 18:25:20,902 - INFO - [624/1001] Quantized & saved: quantized_photos\image_659.jpg
+2025-02-03 18:25:21,314 - INFO - [625/1001] Quantized & saved: quantized_photos\image_66.jpg
+2025-02-03 18:25:22,123 - INFO - [626/1001] Quantized & saved: quantized_photos\image_660.jpg
+2025-02-03 18:25:22,621 - INFO - [627/1001] Quantized & saved: quantized_photos\image_661.jpg
+2025-02-03 18:25:23,155 - INFO - [628/1001] Quantized & saved: quantized_photos\image_662.jpg
+2025-02-03 18:25:23,498 - INFO - [629/1001] Quantized & saved: quantized_photos\image_663.jpg
+2025-02-03 18:25:23,827 - INFO - [630/1001] Quantized & saved: quantized_photos\image_664.jpg
+2025-02-03 18:25:24,158 - INFO - [631/1001] Quantized & saved: quantized_photos\image_665.jpg
+2025-02-03 18:25:24,556 - INFO - [632/1001] Quantized & saved: quantized_photos\image_666.jpg
+2025-02-03 18:25:24,841 - INFO - [633/1001] Quantized & saved: quantized_photos\image_667.jpg
+2025-02-03 18:25:25,206 - INFO - [634/1001] Quantized & saved: quantized_photos\image_668.jpg
+2025-02-03 18:25:25,446 - INFO - [635/1001] Quantized & saved: quantized_photos\image_669.jpg
+2025-02-03 18:25:25,906 - INFO - [636/1001] Quantized & saved: quantized_photos\image_67.jpg
+2025-02-03 18:25:26,152 - INFO - [637/1001] Quantized & saved: quantized_photos\image_670.jpg
+2025-02-03 18:25:26,575 - INFO - [638/1001] Quantized & saved: quantized_photos\image_671.jpg
+2025-02-03 18:25:26,840 - INFO - [639/1001] Quantized & saved: quantized_photos\image_672.jpg
+2025-02-03 18:25:27,192 - INFO - [640/1001] Quantized & saved: quantized_photos\image_673.jpg
+2025-02-03 18:25:27,593 - INFO - [641/1001] Quantized & saved: quantized_photos\image_674.jpg
+2025-02-03 18:25:27,922 - INFO - [642/1001] Quantized & saved: quantized_photos\image_675.jpg
+2025-02-03 18:25:28,288 - INFO - [643/1001] Quantized & saved: quantized_photos\image_676.jpg
+2025-02-03 18:25:28,524 - INFO - [644/1001] Quantized & saved: quantized_photos\image_677.jpg
+2025-02-03 18:25:28,811 - INFO - [645/1001] Quantized & saved: quantized_photos\image_678.jpg
+2025-02-03 18:25:29,127 - INFO - [646/1001] Quantized & saved: quantized_photos\image_679.jpg
+2025-02-03 18:25:29,767 - INFO - [647/1001] Quantized & saved: quantized_photos\image_68.jpg
+2025-02-03 18:25:29,995 - INFO - [648/1001] Quantized & saved: quantized_photos\image_680.jpg
+2025-02-03 18:25:30,470 - INFO - [649/1001] Quantized & saved: quantized_photos\image_681.jpg
+2025-02-03 18:25:30,808 - INFO - [650/1001] Quantized & saved: quantized_photos\image_682.jpg
+2025-02-03 18:25:31,071 - INFO - [651/1001] Quantized & saved: quantized_photos\image_683.jpg
+2025-02-03 18:25:31,435 - INFO - [652/1001] Quantized & saved: quantized_photos\image_684.jpg
+2025-02-03 18:25:31,865 - INFO - [653/1001] Quantized & saved: quantized_photos\image_685.jpg
+2025-02-03 18:25:32,224 - INFO - [654/1001] Quantized & saved: quantized_photos\image_686.jpg
+2025-02-03 18:25:32,571 - INFO - [655/1001] Quantized & saved: quantized_photos\image_687.jpg
+2025-02-03 18:25:32,891 - INFO - [656/1001] Quantized & saved: quantized_photos\image_688.jpg
+2025-02-03 18:25:33,217 - INFO - [657/1001] Quantized & saved: quantized_photos\image_689.jpg
+2025-02-03 18:25:33,718 - INFO - [658/1001] Quantized & saved: quantized_photos\image_69.jpg
+2025-02-03 18:25:34,193 - INFO - [659/1001] Quantized & saved: quantized_photos\image_690.jpg
+2025-02-03 18:25:34,471 - INFO - [660/1001] Quantized & saved: quantized_photos\image_691.jpg
+2025-02-03 18:25:35,057 - INFO - [661/1001] Quantized & saved: quantized_photos\image_692.jpg
+2025-02-03 18:25:35,434 - INFO - [662/1001] Quantized & saved: quantized_photos\image_693.jpg
+2025-02-03 18:25:36,021 - INFO - [663/1001] Quantized & saved: quantized_photos\image_694.jpg
+2025-02-03 18:25:36,282 - INFO - [664/1001] Quantized & saved: quantized_photos\image_695.jpg
+2025-02-03 18:25:36,450 - INFO - [665/1001] Quantized & saved: quantized_photos\image_696.jpg
+2025-02-03 18:25:36,774 - INFO - [666/1001] Quantized & saved: quantized_photos\image_697.jpg
+2025-02-03 18:25:37,377 - INFO - [667/1001] Quantized & saved: quantized_photos\image_698.jpg
+2025-02-03 18:25:37,686 - INFO - [668/1001] Quantized & saved: quantized_photos\image_699.jpg
+2025-02-03 18:25:38,135 - INFO - [669/1001] Quantized & saved: quantized_photos\image_7.jpg
+2025-02-03 18:25:38,535 - INFO - [670/1001] Quantized & saved: quantized_photos\image_70.jpg
+2025-02-03 18:25:38,918 - INFO - [671/1001] Quantized & saved: quantized_photos\image_700.jpg
+2025-02-03 18:25:39,303 - INFO - [672/1001] Quantized & saved: quantized_photos\image_701.jpg
+2025-02-03 18:25:39,571 - INFO - [673/1001] Quantized & saved: quantized_photos\image_702.jpg
+2025-02-03 18:25:40,085 - INFO - [674/1001] Quantized & saved: quantized_photos\image_703.jpg
+2025-02-03 18:25:40,326 - INFO - [675/1001] Quantized & saved: quantized_photos\image_704.jpg
+2025-02-03 18:25:40,540 - INFO - [676/1001] Quantized & saved: quantized_photos\image_705.jpg
+2025-02-03 18:25:41,019 - INFO - [677/1001] Quantized & saved: quantized_photos\image_706.jpg
+2025-02-03 18:25:41,488 - INFO - [678/1001] Quantized & saved: quantized_photos\image_707.jpg
+2025-02-03 18:25:42,199 - INFO - [679/1001] Quantized & saved: quantized_photos\image_708.jpg
+2025-02-03 18:25:42,566 - INFO - [680/1001] Quantized & saved: quantized_photos\image_709.jpg
+2025-02-03 18:25:42,812 - INFO - [681/1001] Quantized & saved: quantized_photos\image_71.jpg
+2025-02-03 18:25:43,201 - INFO - [682/1001] Quantized & saved: quantized_photos\image_710.jpg
+2025-02-03 18:25:43,644 - INFO - [683/1001] Quantized & saved: quantized_photos\image_711.jpg
+2025-02-03 18:25:43,974 - INFO - [684/1001] Quantized & saved: quantized_photos\image_712.jpg
+2025-02-03 18:25:44,223 - INFO - [685/1001] Quantized & saved: quantized_photos\image_713.jpg
+2025-02-03 18:25:44,501 - INFO - [686/1001] Quantized & saved: quantized_photos\image_714.jpg
+2025-02-03 18:25:45,121 - INFO - [687/1001] Quantized & saved: quantized_photos\image_715.jpg
+2025-02-03 18:25:45,529 - INFO - [688/1001] Quantized & saved: quantized_photos\image_716.jpg
+2025-02-03 18:25:45,983 - INFO - [689/1001] Quantized & saved: quantized_photos\image_717.jpg
+2025-02-03 18:25:46,302 - INFO - [690/1001] Quantized & saved: quantized_photos\image_718.jpg
+2025-02-03 18:25:46,727 - INFO - [691/1001] Quantized & saved: quantized_photos\image_719.jpg
+2025-02-03 18:25:47,159 - INFO - [692/1001] Quantized & saved: quantized_photos\image_72.jpg
+2025-02-03 18:25:47,564 - INFO - [693/1001] Quantized & saved: quantized_photos\image_720.jpg
+2025-02-03 18:25:48,167 - INFO - [694/1001] Quantized & saved: quantized_photos\image_721.jpg
+2025-02-03 18:25:48,635 - INFO - [695/1001] Quantized & saved: quantized_photos\image_722.jpg
+2025-02-03 18:25:48,893 - INFO - [696/1001] Quantized & saved: quantized_photos\image_723.jpg
+2025-02-03 18:25:49,183 - INFO - [697/1001] Quantized & saved: quantized_photos\image_724.jpg
+2025-02-03 18:25:49,503 - INFO - [698/1001] Quantized & saved: quantized_photos\image_725.jpg
+2025-02-03 18:25:49,763 - INFO - [699/1001] Quantized & saved: quantized_photos\image_726.jpg
+2025-02-03 18:25:50,289 - INFO - [700/1001] Quantized & saved: quantized_photos\image_727.jpg
+2025-02-03 18:25:50,536 - INFO - [701/1001] Quantized & saved: quantized_photos\image_728.jpg
+2025-02-03 18:25:50,977 - INFO - [702/1001] Quantized & saved: quantized_photos\image_729.jpg
+2025-02-03 18:25:51,603 - INFO - [703/1001] Quantized & saved: quantized_photos\image_73.jpg
+2025-02-03 18:25:52,042 - INFO - [704/1001] Quantized & saved: quantized_photos\image_730.jpg
+2025-02-03 18:25:52,378 - INFO - [705/1001] Quantized & saved: quantized_photos\image_731.jpg
+2025-02-03 18:25:52,872 - INFO - [706/1001] Quantized & saved: quantized_photos\image_732.jpg
+2025-02-03 18:25:53,304 - INFO - [707/1001] Quantized & saved: quantized_photos\image_733.jpg
+2025-02-03 18:25:53,790 - INFO - [708/1001] Quantized & saved: quantized_photos\image_734.jpg
+2025-02-03 18:25:54,167 - INFO - [709/1001] Quantized & saved: quantized_photos\image_735.jpg
+2025-02-03 18:25:54,425 - INFO - [710/1001] Quantized & saved: quantized_photos\image_736.jpg
+2025-02-03 18:25:54,905 - INFO - [711/1001] Quantized & saved: quantized_photos\image_737.jpg
+2025-02-03 18:25:55,236 - INFO - [712/1001] Quantized & saved: quantized_photos\image_738.jpg
+2025-02-03 18:25:55,530 - INFO - [713/1001] Quantized & saved: quantized_photos\image_739.jpg
+2025-02-03 18:25:55,805 - INFO - [714/1001] Quantized & saved: quantized_photos\image_74.jpg
+2025-02-03 18:25:56,223 - INFO - [715/1001] Quantized & saved: quantized_photos\image_740.jpg
+2025-02-03 18:25:56,438 - INFO - [716/1001] Quantized & saved: quantized_photos\image_741.jpg
+2025-02-03 18:25:56,713 - INFO - [717/1001] Quantized & saved: quantized_photos\image_742.jpg
+2025-02-03 18:25:57,017 - INFO - [718/1001] Quantized & saved: quantized_photos\image_743.jpg
+2025-02-03 18:25:57,505 - INFO - [719/1001] Quantized & saved: quantized_photos\image_744.jpg
+2025-02-03 18:25:57,778 - INFO - [720/1001] Quantized & saved: quantized_photos\image_745.jpg
+2025-02-03 18:25:58,097 - INFO - [721/1001] Quantized & saved: quantized_photos\image_746.jpg
+2025-02-03 18:25:58,516 - INFO - [722/1001] Quantized & saved: quantized_photos\image_747.jpg
+2025-02-03 18:25:58,938 - INFO - [723/1001] Quantized & saved: quantized_photos\image_748.jpg
+2025-02-03 18:25:59,278 - INFO - [724/1001] Quantized & saved: quantized_photos\image_749.jpg
+2025-02-03 18:25:59,711 - INFO - [725/1001] Quantized & saved: quantized_photos\image_75.jpg
+2025-02-03 18:26:00,073 - INFO - [726/1001] Quantized & saved: quantized_photos\image_750.jpg
+2025-02-03 18:26:00,240 - INFO - [727/1001] Quantized & saved: quantized_photos\image_751.jpg
+2025-02-03 18:26:00,565 - INFO - [728/1001] Quantized & saved: quantized_photos\image_752.jpg
+2025-02-03 18:26:00,755 - INFO - [729/1001] Quantized & saved: quantized_photos\image_753.jpg
+2025-02-03 18:26:01,060 - INFO - [730/1001] Quantized & saved: quantized_photos\image_754.jpg
+2025-02-03 18:26:01,258 - INFO - [731/1001] Quantized & saved: quantized_photos\image_755.jpg
+2025-02-03 18:26:01,496 - INFO - [732/1001] Quantized & saved: quantized_photos\image_756.jpg
+2025-02-03 18:26:01,966 - INFO - [733/1001] Quantized & saved: quantized_photos\image_757.jpg
+2025-02-03 18:26:02,397 - INFO - [734/1001] Quantized & saved: quantized_photos\image_758.jpg
+2025-02-03 18:26:02,703 - INFO - [735/1001] Quantized & saved: quantized_photos\image_759.jpg
+2025-02-03 18:26:02,936 - INFO - [736/1001] Quantized & saved: quantized_photos\image_76.jpg
+2025-02-03 18:26:03,265 - INFO - [737/1001] Quantized & saved: quantized_photos\image_760.jpg
+2025-02-03 18:26:03,538 - INFO - [738/1001] Quantized & saved: quantized_photos\image_761.jpg
+2025-02-03 18:26:03,689 - INFO - [739/1001] Quantized & saved: quantized_photos\image_762.jpg
+2025-02-03 18:26:03,961 - INFO - [740/1001] Quantized & saved: quantized_photos\image_763.jpg
+2025-02-03 18:26:04,253 - INFO - [741/1001] Quantized & saved: quantized_photos\image_764.jpg
+2025-02-03 18:26:04,689 - INFO - [742/1001] Quantized & saved: quantized_photos\image_765.jpg
+2025-02-03 18:26:05,000 - INFO - [743/1001] Quantized & saved: quantized_photos\image_766.jpg
+2025-02-03 18:26:05,438 - INFO - [744/1001] Quantized & saved: quantized_photos\image_767.jpg
+2025-02-03 18:26:05,960 - INFO - [745/1001] Quantized & saved: quantized_photos\image_768.jpg
+2025-02-03 18:26:06,350 - INFO - [746/1001] Quantized & saved: quantized_photos\image_769.jpg
+2025-02-03 18:26:06,637 - INFO - [747/1001] Quantized & saved: quantized_photos\image_77.jpg
+2025-02-03 18:26:07,012 - INFO - [748/1001] Quantized & saved: quantized_photos\image_770.jpg
+2025-02-03 18:26:07,408 - INFO - [749/1001] Quantized & saved: quantized_photos\image_771.jpg
+2025-02-03 18:26:07,817 - INFO - [750/1001] Quantized & saved: quantized_photos\image_772.jpg
+2025-02-03 18:26:08,303 - INFO - [751/1001] Quantized & saved: quantized_photos\image_773.jpg
+2025-02-03 18:26:08,760 - INFO - [752/1001] Quantized & saved: quantized_photos\image_774.jpg
+2025-02-03 18:26:09,138 - INFO - [753/1001] Quantized & saved: quantized_photos\image_775.jpg
+2025-02-03 18:26:09,537 - INFO - [754/1001] Quantized & saved: quantized_photos\image_776.jpg
+2025-02-03 18:26:09,872 - INFO - [755/1001] Quantized & saved: quantized_photos\image_777.jpg
+2025-02-03 18:26:10,110 - INFO - [756/1001] Quantized & saved: quantized_photos\image_778.jpg
+2025-02-03 18:26:10,437 - INFO - [757/1001] Quantized & saved: quantized_photos\image_779.jpg
+2025-02-03 18:26:10,927 - INFO - [758/1001] Quantized & saved: quantized_photos\image_78.jpg
+2025-02-03 18:26:11,390 - INFO - [759/1001] Quantized & saved: quantized_photos\image_780.jpg
+2025-02-03 18:26:11,732 - INFO - [760/1001] Quantized & saved: quantized_photos\image_781.jpg
+2025-02-03 18:26:12,028 - INFO - [761/1001] Quantized & saved: quantized_photos\image_782.jpg
+2025-02-03 18:26:12,419 - INFO - [762/1001] Quantized & saved: quantized_photos\image_783.jpg
+2025-02-03 18:26:12,722 - INFO - [763/1001] Quantized & saved: quantized_photos\image_784.jpg
+2025-02-03 18:26:12,996 - INFO - [764/1001] Quantized & saved: quantized_photos\image_785.jpg
+2025-02-03 18:26:13,323 - INFO - [765/1001] Quantized & saved: quantized_photos\image_786.jpg
+2025-02-03 18:26:13,788 - INFO - [766/1001] Quantized & saved: quantized_photos\image_787.jpg
+2025-02-03 18:26:14,075 - INFO - [767/1001] Quantized & saved: quantized_photos\image_788.jpg
+2025-02-03 18:26:14,416 - INFO - [768/1001] Quantized & saved: quantized_photos\image_789.jpg
+2025-02-03 18:26:14,768 - INFO - [769/1001] Quantized & saved: quantized_photos\image_79.jpg
+2025-02-03 18:26:15,152 - INFO - [770/1001] Quantized & saved: quantized_photos\image_790.jpg
+2025-02-03 18:26:15,793 - INFO - [771/1001] Quantized & saved: quantized_photos\image_791.jpg
+2025-02-03 18:26:16,286 - INFO - [772/1001] Quantized & saved: quantized_photos\image_792.jpg
+2025-02-03 18:26:16,720 - INFO - [773/1001] Quantized & saved: quantized_photos\image_793.jpg
+2025-02-03 18:26:17,158 - INFO - [774/1001] Quantized & saved: quantized_photos\image_794.jpg
+2025-02-03 18:26:17,553 - INFO - [775/1001] Quantized & saved: quantized_photos\image_795.jpg
+2025-02-03 18:26:17,920 - INFO - [776/1001] Quantized & saved: quantized_photos\image_796.jpg
+2025-02-03 18:26:18,253 - INFO - [777/1001] Quantized & saved: quantized_photos\image_797.jpg
+2025-02-03 18:26:18,647 - INFO - [778/1001] Quantized & saved: quantized_photos\image_798.jpg
+2025-02-03 18:26:19,210 - INFO - [779/1001] Quantized & saved: quantized_photos\image_799.jpg
+2025-02-03 18:26:19,405 - INFO - [780/1001] Quantized & saved: quantized_photos\image_8.jpg
+2025-02-03 18:26:19,789 - INFO - [781/1001] Quantized & saved: quantized_photos\image_80.jpg
+2025-02-03 18:26:20,218 - INFO - [782/1001] Quantized & saved: quantized_photos\image_800.jpg
+2025-02-03 18:26:20,524 - INFO - [783/1001] Quantized & saved: quantized_photos\image_801.jpg
+2025-02-03 18:26:20,818 - INFO - [784/1001] Quantized & saved: quantized_photos\image_802.jpg
+2025-02-03 18:26:21,305 - INFO - [785/1001] Quantized & saved: quantized_photos\image_803.jpg
+2025-02-03 18:26:21,782 - INFO - [786/1001] Quantized & saved: quantized_photos\image_804.jpg
+2025-02-03 18:26:22,189 - INFO - [787/1001] Quantized & saved: quantized_photos\image_805.jpg
+2025-02-03 18:26:22,536 - INFO - [788/1001] Quantized & saved: quantized_photos\image_806.jpg
+2025-02-03 18:26:22,823 - INFO - [789/1001] Quantized & saved: quantized_photos\image_807.jpg
+2025-02-03 18:26:23,303 - INFO - [790/1001] Quantized & saved: quantized_photos\image_808.jpg
+2025-02-03 18:26:23,789 - INFO - [791/1001] Quantized & saved: quantized_photos\image_809.jpg
+2025-02-03 18:26:24,127 - INFO - [792/1001] Quantized & saved: quantized_photos\image_81.jpg
+2025-02-03 18:26:24,712 - INFO - [793/1001] Quantized & saved: quantized_photos\image_810.jpg
+2025-02-03 18:26:25,608 - INFO - [794/1001] Quantized & saved: quantized_photos\image_811.jpg
+2025-02-03 18:26:25,896 - INFO - [795/1001] Quantized & saved: quantized_photos\image_812.jpg
+2025-02-03 18:26:26,604 - INFO - [796/1001] Quantized & saved: quantized_photos\image_813.jpg
+2025-02-03 18:26:26,926 - INFO - [797/1001] Quantized & saved: quantized_photos\image_814.jpg
+2025-02-03 18:26:27,243 - INFO - [798/1001] Quantized & saved: quantized_photos\image_815.jpg
+2025-02-03 18:26:27,706 - INFO - [799/1001] Quantized & saved: quantized_photos\image_816.jpg
+2025-02-03 18:26:28,074 - INFO - [800/1001] Quantized & saved: quantized_photos\image_817.jpg
+2025-02-03 18:26:28,481 - INFO - [801/1001] Quantized & saved: quantized_photos\image_818.jpg
+2025-02-03 18:26:28,888 - INFO - [802/1001] Quantized & saved: quantized_photos\image_819.jpg
+2025-02-03 18:26:29,356 - INFO - [803/1001] Quantized & saved: quantized_photos\image_82.jpg
+2025-02-03 18:26:29,673 - INFO - [804/1001] Quantized & saved: quantized_photos\image_820.jpg
+2025-02-03 18:26:30,032 - INFO - [805/1001] Quantized & saved: quantized_photos\image_821.jpg
+2025-02-03 18:26:30,395 - INFO - [806/1001] Quantized & saved: quantized_photos\image_822.jpg
+2025-02-03 18:26:30,705 - INFO - [807/1001] Quantized & saved: quantized_photos\image_823.jpg
+2025-02-03 18:26:31,031 - INFO - [808/1001] Quantized & saved: quantized_photos\image_824.jpg
+2025-02-03 18:26:31,254 - INFO - [809/1001] Quantized & saved: quantized_photos\image_825.jpg
+2025-02-03 18:26:31,649 - INFO - [810/1001] Quantized & saved: quantized_photos\image_826.jpg
+2025-02-03 18:26:31,859 - INFO - [811/1001] Quantized & saved: quantized_photos\image_827.jpg
+2025-02-03 18:26:32,201 - INFO - [812/1001] Quantized & saved: quantized_photos\image_828.jpg
+2025-02-03 18:26:32,610 - INFO - [813/1001] Quantized & saved: quantized_photos\image_829.jpg
+2025-02-03 18:26:32,882 - INFO - [814/1001] Quantized & saved: quantized_photos\image_83.jpg
+2025-02-03 18:26:33,337 - INFO - [815/1001] Quantized & saved: quantized_photos\image_830.jpg
+2025-02-03 18:26:33,710 - INFO - [816/1001] Quantized & saved: quantized_photos\image_831.jpg
+2025-02-03 18:26:34,074 - INFO - [817/1001] Quantized & saved: quantized_photos\image_832.jpg
+2025-02-03 18:26:34,565 - INFO - [818/1001] Quantized & saved: quantized_photos\image_833.jpg
+2025-02-03 18:26:34,900 - INFO - [819/1001] Quantized & saved: quantized_photos\image_834.jpg
+2025-02-03 18:26:35,366 - INFO - [820/1001] Quantized & saved: quantized_photos\image_835.jpg
+2025-02-03 18:26:35,784 - INFO - [821/1001] Quantized & saved: quantized_photos\image_836.jpg
+2025-02-03 18:26:36,046 - INFO - [822/1001] Quantized & saved: quantized_photos\image_837.jpg
+2025-02-03 18:26:36,350 - INFO - [823/1001] Quantized & saved: quantized_photos\image_838.jpg
+2025-02-03 18:26:36,745 - INFO - [824/1001] Quantized & saved: quantized_photos\image_839.jpg
+2025-02-03 18:26:37,082 - INFO - [825/1001] Quantized & saved: quantized_photos\image_84.jpg
+2025-02-03 18:26:37,387 - INFO - [826/1001] Quantized & saved: quantized_photos\image_840.jpg
+2025-02-03 18:26:37,738 - INFO - [827/1001] Quantized & saved: quantized_photos\image_841.jpg
+2025-02-03 18:26:38,166 - INFO - [828/1001] Quantized & saved: quantized_photos\image_842.jpg
+2025-02-03 18:26:38,460 - INFO - [829/1001] Quantized & saved: quantized_photos\image_843.jpg
+2025-02-03 18:26:38,755 - INFO - [830/1001] Quantized & saved: quantized_photos\image_844.jpg
+2025-02-03 18:26:38,991 - INFO - [831/1001] Quantized & saved: quantized_photos\image_845.jpg
+2025-02-03 18:26:39,301 - INFO - [832/1001] Quantized & saved: quantized_photos\image_846.jpg
+2025-02-03 18:26:39,744 - INFO - [833/1001] Quantized & saved: quantized_photos\image_847.jpg
+2025-02-03 18:26:40,041 - INFO - [834/1001] Quantized & saved: quantized_photos\image_848.jpg
+2025-02-03 18:26:40,384 - INFO - [835/1001] Quantized & saved: quantized_photos\image_849.jpg
+2025-02-03 18:26:40,706 - INFO - [836/1001] Quantized & saved: quantized_photos\image_85.jpg
+2025-02-03 18:26:40,972 - INFO - [837/1001] Quantized & saved: quantized_photos\image_850.jpg
+2025-02-03 18:26:41,339 - INFO - [838/1001] Quantized & saved: quantized_photos\image_851.jpg
+2025-02-03 18:26:41,774 - INFO - [839/1001] Quantized & saved: quantized_photos\image_852.jpg
+2025-02-03 18:26:42,075 - INFO - [840/1001] Quantized & saved: quantized_photos\image_853.jpg
+2025-02-03 18:26:42,393 - INFO - [841/1001] Quantized & saved: quantized_photos\image_854.jpg
+2025-02-03 18:26:42,678 - INFO - [842/1001] Quantized & saved: quantized_photos\image_855.jpg
+2025-02-03 18:26:42,965 - INFO - [843/1001] Quantized & saved: quantized_photos\image_856.jpg
+2025-02-03 18:26:43,298 - INFO - [844/1001] Quantized & saved: quantized_photos\image_857.jpg
+2025-02-03 18:26:43,674 - INFO - [845/1001] Quantized & saved: quantized_photos\image_858.jpg
+2025-02-03 18:26:44,048 - INFO - [846/1001] Quantized & saved: quantized_photos\image_859.jpg
+2025-02-03 18:26:44,448 - INFO - [847/1001] Quantized & saved: quantized_photos\image_86.jpg
+2025-02-03 18:26:44,892 - INFO - [848/1001] Quantized & saved: quantized_photos\image_860.jpg
+2025-02-03 18:26:45,453 - INFO - [849/1001] Quantized & saved: quantized_photos\image_861.jpg
+2025-02-03 18:26:46,156 - INFO - [850/1001] Quantized & saved: quantized_photos\image_862.jpg
+2025-02-03 18:26:46,561 - INFO - [851/1001] Quantized & saved: quantized_photos\image_863.jpg
+2025-02-03 18:26:46,910 - INFO - [852/1001] Quantized & saved: quantized_photos\image_864.jpg
+2025-02-03 18:26:47,287 - INFO - [853/1001] Quantized & saved: quantized_photos\image_865.jpg
+2025-02-03 18:26:47,589 - INFO - [854/1001] Quantized & saved: quantized_photos\image_866.jpg
+2025-02-03 18:26:48,224 - INFO - [855/1001] Quantized & saved: quantized_photos\image_867.jpg
+2025-02-03 18:26:48,541 - INFO - [856/1001] Quantized & saved: quantized_photos\image_868.jpg
+2025-02-03 18:26:49,212 - INFO - [857/1001] Quantized & saved: quantized_photos\image_869.jpg
+2025-02-03 18:26:49,508 - INFO - [858/1001] Quantized & saved: quantized_photos\image_87.jpg
+2025-02-03 18:26:49,833 - INFO - [859/1001] Quantized & saved: quantized_photos\image_870.jpg
+2025-02-03 18:26:50,223 - INFO - [860/1001] Quantized & saved: quantized_photos\image_871.jpg
+2025-02-03 18:26:50,617 - INFO - [861/1001] Quantized & saved: quantized_photos\image_872.jpg
+2025-02-03 18:26:50,934 - INFO - [862/1001] Quantized & saved: quantized_photos\image_873.jpg
+2025-02-03 18:26:51,281 - INFO - [863/1001] Quantized & saved: quantized_photos\image_874.jpg
+2025-02-03 18:26:51,636 - INFO - [864/1001] Quantized & saved: quantized_photos\image_875.jpg
+2025-02-03 18:26:51,945 - INFO - [865/1001] Quantized & saved: quantized_photos\image_876.jpg
+2025-02-03 18:26:52,393 - INFO - [866/1001] Quantized & saved: quantized_photos\image_877.jpg
+2025-02-03 18:26:52,658 - INFO - [867/1001] Quantized & saved: quantized_photos\image_878.jpg
+2025-02-03 18:26:52,917 - INFO - [868/1001] Quantized & saved: quantized_photos\image_879.jpg
+2025-02-03 18:26:53,164 - INFO - [869/1001] Quantized & saved: quantized_photos\image_88.jpg
+2025-02-03 18:26:53,450 - INFO - [870/1001] Quantized & saved: quantized_photos\image_880.jpg
+2025-02-03 18:26:53,759 - INFO - [871/1001] Quantized & saved: quantized_photos\image_881.jpg
+2025-02-03 18:26:54,086 - INFO - [872/1001] Quantized & saved: quantized_photos\image_882.jpg
+2025-02-03 18:26:54,461 - INFO - [873/1001] Quantized & saved: quantized_photos\image_883.jpg
+2025-02-03 18:26:55,005 - INFO - [874/1001] Quantized & saved: quantized_photos\image_884.jpg
+2025-02-03 18:26:55,292 - INFO - [875/1001] Quantized & saved: quantized_photos\image_885.jpg
+2025-02-03 18:26:55,553 - INFO - [876/1001] Quantized & saved: quantized_photos\image_886.jpg
+2025-02-03 18:26:55,998 - INFO - [877/1001] Quantized & saved: quantized_photos\image_887.jpg
+2025-02-03 18:26:56,347 - INFO - [878/1001] Quantized & saved: quantized_photos\image_888.jpg
+2025-02-03 18:26:56,907 - INFO - [879/1001] Quantized & saved: quantized_photos\image_889.jpg
+2025-02-03 18:26:57,237 - INFO - [880/1001] Quantized & saved: quantized_photos\image_89.jpg
+2025-02-03 18:26:57,557 - INFO - [881/1001] Quantized & saved: quantized_photos\image_890.jpg
+2025-02-03 18:26:58,060 - INFO - [882/1001] Quantized & saved: quantized_photos\image_891.jpg
+2025-02-03 18:26:58,514 - INFO - [883/1001] Quantized & saved: quantized_photos\image_892.jpg
+2025-02-03 18:26:58,802 - INFO - [884/1001] Quantized & saved: quantized_photos\image_893.jpg
+2025-02-03 18:26:59,060 - INFO - [885/1001] Quantized & saved: quantized_photos\image_894.jpg
+2025-02-03 18:26:59,307 - INFO - [886/1001] Quantized & saved: quantized_photos\image_895.jpg
+2025-02-03 18:26:59,626 - INFO - [887/1001] Quantized & saved: quantized_photos\image_896.jpg
+2025-02-03 18:26:59,934 - INFO - [888/1001] Quantized & saved: quantized_photos\image_897.jpg
+2025-02-03 18:27:00,262 - INFO - [889/1001] Quantized & saved: quantized_photos\image_898.jpg
+2025-02-03 18:27:00,509 - INFO - [890/1001] Quantized & saved: quantized_photos\image_899.jpg
+2025-02-03 18:27:00,885 - INFO - [891/1001] Quantized & saved: quantized_photos\image_9.jpg
+2025-02-03 18:27:01,291 - INFO - [892/1001] Quantized & saved: quantized_photos\image_90.jpg
+2025-02-03 18:27:01,784 - INFO - [893/1001] Quantized & saved: quantized_photos\image_900.jpg
+2025-02-03 18:27:02,103 - INFO - [894/1001] Quantized & saved: quantized_photos\image_901.jpg
+2025-02-03 18:27:02,383 - INFO - [895/1001] Quantized & saved: quantized_photos\image_902.jpg
+2025-02-03 18:27:02,816 - INFO - [896/1001] Quantized & saved: quantized_photos\image_903.jpg
+2025-02-03 18:27:03,264 - INFO - [897/1001] Quantized & saved: quantized_photos\image_904.jpg
+2025-02-03 18:27:03,716 - INFO - [898/1001] Quantized & saved: quantized_photos\image_905.jpg
+2025-02-03 18:27:04,033 - INFO - [899/1001] Quantized & saved: quantized_photos\image_906.jpg
+2025-02-03 18:27:04,486 - INFO - [900/1001] Quantized & saved: quantized_photos\image_907.jpg
+2025-02-03 18:27:04,961 - INFO - [901/1001] Quantized & saved: quantized_photos\image_908.jpg
+2025-02-03 18:27:05,280 - INFO - [902/1001] Quantized & saved: quantized_photos\image_909.jpg
+2025-02-03 18:27:05,672 - INFO - [903/1001] Quantized & saved: quantized_photos\image_91.jpg
+2025-02-03 18:27:05,994 - INFO - [904/1001] Quantized & saved: quantized_photos\image_910.jpg
+2025-02-03 18:27:06,503 - INFO - [905/1001] Quantized & saved: quantized_photos\image_911.jpg
+2025-02-03 18:27:06,882 - INFO - [906/1001] Quantized & saved: quantized_photos\image_912.jpg
+2025-02-03 18:27:07,173 - INFO - [907/1001] Quantized & saved: quantized_photos\image_913.jpg
+2025-02-03 18:27:07,457 - INFO - [908/1001] Quantized & saved: quantized_photos\image_914.jpg
+2025-02-03 18:27:07,742 - INFO - [909/1001] Quantized & saved: quantized_photos\image_915.jpg
+2025-02-03 18:27:08,105 - INFO - [910/1001] Quantized & saved: quantized_photos\image_916.jpg
+2025-02-03 18:27:08,443 - INFO - [911/1001] Quantized & saved: quantized_photos\image_917.jpg
+2025-02-03 18:27:08,715 - INFO - [912/1001] Quantized & saved: quantized_photos\image_918.jpg
+2025-02-03 18:27:09,135 - INFO - [913/1001] Quantized & saved: quantized_photos\image_919.jpg
+2025-02-03 18:27:09,410 - INFO - [914/1001] Quantized & saved: quantized_photos\image_92.jpg
+2025-02-03 18:27:09,877 - INFO - [915/1001] Quantized & saved: quantized_photos\image_920.jpg
+2025-02-03 18:27:10,203 - INFO - [916/1001] Quantized & saved: quantized_photos\image_921.jpg
+2025-02-03 18:27:10,460 - INFO - [917/1001] Quantized & saved: quantized_photos\image_922.jpg
+2025-02-03 18:27:10,809 - INFO - [918/1001] Quantized & saved: quantized_photos\image_923.jpg
+2025-02-03 18:27:11,231 - INFO - [919/1001] Quantized & saved: quantized_photos\image_924.jpg
+2025-02-03 18:27:11,496 - INFO - [920/1001] Quantized & saved: quantized_photos\image_925.jpg
+2025-02-03 18:27:11,987 - INFO - [921/1001] Quantized & saved: quantized_photos\image_926.jpg
+2025-02-03 18:27:12,220 - INFO - [922/1001] Quantized & saved: quantized_photos\image_927.jpg
+2025-02-03 18:27:12,403 - INFO - [923/1001] Quantized & saved: quantized_photos\image_928.jpg
+2025-02-03 18:27:12,919 - INFO - [924/1001] Quantized & saved: quantized_photos\image_929.jpg
+2025-02-03 18:27:13,374 - INFO - [925/1001] Quantized & saved: quantized_photos\image_93.jpg
+2025-02-03 18:27:13,807 - INFO - [926/1001] Quantized & saved: quantized_photos\image_930.jpg
+2025-02-03 18:27:14,308 - INFO - [927/1001] Quantized & saved: quantized_photos\image_931.jpg
+2025-02-03 18:27:14,715 - INFO - [928/1001] Quantized & saved: quantized_photos\image_932.jpg
+2025-02-03 18:27:15,069 - INFO - [929/1001] Quantized & saved: quantized_photos\image_933.jpg
+2025-02-03 18:27:15,400 - INFO - [930/1001] Quantized & saved: quantized_photos\image_934.jpg
+2025-02-03 18:27:15,694 - INFO - [931/1001] Quantized & saved: quantized_photos\image_935.jpg
+2025-02-03 18:27:16,010 - INFO - [932/1001] Quantized & saved: quantized_photos\image_936.jpg
+2025-02-03 18:27:16,490 - INFO - [933/1001] Quantized & saved: quantized_photos\image_937.jpg
+2025-02-03 18:27:16,884 - INFO - [934/1001] Quantized & saved: quantized_photos\image_938.jpg
+2025-02-03 18:27:17,214 - INFO - [935/1001] Quantized & saved: quantized_photos\image_939.jpg
+2025-02-03 18:27:17,590 - INFO - [936/1001] Quantized & saved: quantized_photos\image_94.jpg
+2025-02-03 18:27:17,973 - INFO - [937/1001] Quantized & saved: quantized_photos\image_940.jpg
+2025-02-03 18:27:18,280 - INFO - [938/1001] Quantized & saved: quantized_photos\image_941.jpg
+2025-02-03 18:27:18,664 - INFO - [939/1001] Quantized & saved: quantized_photos\image_942.jpg
+2025-02-03 18:27:18,934 - INFO - [940/1001] Quantized & saved: quantized_photos\image_943.jpg
+2025-02-03 18:27:19,306 - INFO - [941/1001] Quantized & saved: quantized_photos\image_944.jpg
+2025-02-03 18:27:19,691 - INFO - [942/1001] Quantized & saved: quantized_photos\image_945.jpg
+2025-02-03 18:27:20,006 - INFO - [943/1001] Quantized & saved: quantized_photos\image_946.jpg
+2025-02-03 18:27:20,489 - INFO - [944/1001] Quantized & saved: quantized_photos\image_947.jpg
+2025-02-03 18:27:20,916 - INFO - [945/1001] Quantized & saved: quantized_photos\image_948.jpg
+2025-02-03 18:27:21,291 - INFO - [946/1001] Quantized & saved: quantized_photos\image_949.jpg
+2025-02-03 18:27:21,594 - INFO - [947/1001] Quantized & saved: quantized_photos\image_95.jpg
+2025-02-03 18:27:21,993 - INFO - [948/1001] Quantized & saved: quantized_photos\image_950.jpg
+2025-02-03 18:27:22,326 - INFO - [949/1001] Quantized & saved: quantized_photos\image_951.jpg
+2025-02-03 18:27:22,659 - INFO - [950/1001] Quantized & saved: quantized_photos\image_952.jpg
+2025-02-03 18:27:22,993 - INFO - [951/1001] Quantized & saved: quantized_photos\image_953.jpg
+2025-02-03 18:27:23,289 - INFO - [952/1001] Quantized & saved: quantized_photos\image_954.jpg
+2025-02-03 18:27:23,657 - INFO - [953/1001] Quantized & saved: quantized_photos\image_955.jpg
+2025-02-03 18:27:24,194 - INFO - [954/1001] Quantized & saved: quantized_photos\image_956.jpg
+2025-02-03 18:27:24,642 - INFO - [955/1001] Quantized & saved: quantized_photos\image_957.jpg
+2025-02-03 18:27:25,041 - INFO - [956/1001] Quantized & saved: quantized_photos\image_958.jpg
+2025-02-03 18:27:25,461 - INFO - [957/1001] Quantized & saved: quantized_photos\image_959.jpg
+2025-02-03 18:27:25,966 - INFO - [958/1001] Quantized & saved: quantized_photos\image_96.jpg
+2025-02-03 18:27:26,327 - INFO - [959/1001] Quantized & saved: quantized_photos\image_960.jpg
+2025-02-03 18:27:26,633 - INFO - [960/1001] Quantized & saved: quantized_photos\image_961.jpg
+2025-02-03 18:27:26,901 - INFO - [961/1001] Quantized & saved: quantized_photos\image_962.jpg
+2025-02-03 18:27:27,392 - INFO - [962/1001] Quantized & saved: quantized_photos\image_963.jpg
+2025-02-03 18:27:27,653 - INFO - [963/1001] Quantized & saved: quantized_photos\image_964.jpg
+2025-02-03 18:27:28,163 - INFO - [964/1001] Quantized & saved: quantized_photos\image_965.jpg
+2025-02-03 18:27:28,418 - INFO - [965/1001] Quantized & saved: quantized_photos\image_966.jpg
+2025-02-03 18:27:28,683 - INFO - [966/1001] Quantized & saved: quantized_photos\image_967.jpg
+2025-02-03 18:27:29,262 - INFO - [967/1001] Quantized & saved: quantized_photos\image_968.jpg
+2025-02-03 18:27:29,752 - INFO - [968/1001] Quantized & saved: quantized_photos\image_969.jpg
+2025-02-03 18:27:30,053 - INFO - [969/1001] Quantized & saved: quantized_photos\image_97.jpg
+2025-02-03 18:27:30,603 - INFO - [970/1001] Quantized & saved: quantized_photos\image_970.jpg
+2025-02-03 18:27:30,892 - INFO - [971/1001] Quantized & saved: quantized_photos\image_971.jpg
+2025-02-03 18:27:31,163 - INFO - [972/1001] Quantized & saved: quantized_photos\image_972.jpg
+2025-02-03 18:27:31,674 - INFO - [973/1001] Quantized & saved: quantized_photos\image_973.jpg
+2025-02-03 18:27:32,027 - INFO - [974/1001] Quantized & saved: quantized_photos\image_974.jpg
+2025-02-03 18:27:32,426 - INFO - [975/1001] Quantized & saved: quantized_photos\image_975.jpg
+2025-02-03 18:27:32,727 - INFO - [976/1001] Quantized & saved: quantized_photos\image_976.jpg
+2025-02-03 18:27:33,061 - INFO - [977/1001] Quantized & saved: quantized_photos\image_977.jpg
+2025-02-03 18:27:33,491 - INFO - [978/1001] Quantized & saved: quantized_photos\image_978.jpg
+2025-02-03 18:27:34,033 - INFO - [979/1001] Quantized & saved: quantized_photos\image_979.jpg
+2025-02-03 18:27:34,468 - INFO - [980/1001] Quantized & saved: quantized_photos\image_98.jpg
+2025-02-03 18:27:35,148 - INFO - [981/1001] Quantized & saved: quantized_photos\image_980.jpg
+2025-02-03 18:27:35,574 - INFO - [982/1001] Quantized & saved: quantized_photos\image_981.jpg
+2025-02-03 18:27:35,866 - INFO - [983/1001] Quantized & saved: quantized_photos\image_982.jpg
+2025-02-03 18:27:36,183 - INFO - [984/1001] Quantized & saved: quantized_photos\image_983.jpg
+2025-02-03 18:27:36,610 - INFO - [985/1001] Quantized & saved: quantized_photos\image_984.jpg
+2025-02-03 18:27:36,936 - INFO - [986/1001] Quantized & saved: quantized_photos\image_985.jpg
+2025-02-03 18:27:37,208 - INFO - [987/1001] Quantized & saved: quantized_photos\image_986.jpg
+2025-02-03 18:27:37,571 - INFO - [988/1001] Quantized & saved: quantized_photos\image_987.jpg
+2025-02-03 18:27:38,045 - INFO - [989/1001] Quantized & saved: quantized_photos\image_988.jpg
+2025-02-03 18:27:38,521 - INFO - [990/1001] Quantized & saved: quantized_photos\image_989.jpg
+2025-02-03 18:27:38,899 - INFO - [991/1001] Quantized & saved: quantized_photos\image_99.jpg
+2025-02-03 18:27:39,389 - INFO - [992/1001] Quantized & saved: quantized_photos\image_990.jpg
+2025-02-03 18:27:39,800 - INFO - [993/1001] Quantized & saved: quantized_photos\image_991.jpg
+2025-02-03 18:27:40,300 - INFO - [994/1001] Quantized & saved: quantized_photos\image_992.jpg
+2025-02-03 18:27:40,648 - INFO - [995/1001] Quantized & saved: quantized_photos\image_993.jpg
+2025-02-03 18:27:40,941 - INFO - [996/1001] Quantized & saved: quantized_photos\image_994.jpg
+2025-02-03 18:27:41,139 - INFO - [997/1001] Quantized & saved: quantized_photos\image_995.jpg
+2025-02-03 18:27:41,488 - INFO - [998/1001] Quantized & saved: quantized_photos\image_996.jpg
+2025-02-03 18:27:41,719 - INFO - [999/1001] Quantized & saved: quantized_photos\image_997.jpg
+2025-02-03 18:27:42,015 - INFO - [1000/1001] Quantized & saved: quantized_photos\image_998.jpg
+2025-02-03 18:27:42,414 - INFO - [1001/1001] Quantized & saved: quantized_photos\image_999.jpg
+2025-02-03 18:27:42,414 - INFO - Color quantization complete.

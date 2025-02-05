@@ -1,0 +1,15 @@
+2025-02-03 20:02:56,777 - INFO - Processing input image: input_image.jpg
+2025-02-03 20:02:56,780 - ERROR - Error loading image: input_image.jpg
+2025-02-03 20:04:28,288 - INFO - Processing input image: input_image1.jpg
+2025-02-03 20:04:28,291 - ERROR - Error loading image: input_image1.jpg
+2025-02-03 20:04:53,308 - INFO - Processing input image: image_1.jpg
+2025-02-03 20:04:53,310 - ERROR - Error loading image: image_1.jpg
+2025-02-03 20:05:16,448 - INFO - Processing input image: /quantized_photos/image_1.jpg
+2025-02-03 20:05:16,463 - ERROR - Error loading image: /quantized_photos/image_1.jpg
+2025-02-03 20:06:35,285 - INFO - Processing input image: input_image.jpg
+2025-02-03 20:06:35,288 - ERROR - Error loading image: input_image.jpg
+2025-02-03 20:12:33,566 - INFO - Processing input image: C:\Users\peter_idoko.VACFSS\Documents\VSCode\mosaicGenerator\quantized_photos\image_1.jpg
+2025-02-03 20:12:34,984 - INFO - Photomosaic saved as photomosaic.jpg
+2025-02-03 20:19:33,371 - INFO - Processing input image: C:\Users\peter_idoko.VACFSS\Documents\VSCode\mosaicGenerator\quantized_photos\image_1.jpg
+2025-02-03 20:21:28,411 - INFO - Processing input image: C:\Users\peter_idoko.VACFSS\Documents\VSCode\mosaicGenerator\quantized_photos\image_1.jpg
+2025-02-03 20:21:29,806 - INFO - Photomosaic saved as photomosaic.jpg
