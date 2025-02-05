@@ -4,10 +4,10 @@ app_file: app.py
 sdk: gradio
 sdk_version: 5.13.2
 ---
-# Photomosaic Generator
+# Interactive Image Mosaic Generator 
 
 ## **Overview**
-This project creates a **photomosaic** by segmenting an input image into a grid of tiles and replacing each tile with the closest-matching image from a predefined database.
+This project creates a **mosaic** by segmenting an input image into a grid of tiles and replacing each tile with the closest-matching image from a predefined database.
 
 ## **Installation**
 ### **Prerequisites**
@@ -38,7 +38,7 @@ DATABASE_FOLDER: Path to the folder containing the image tiles.
 ```
 
 ### **Performance Improvements**
-Uses parallel processing for faster execution.
+Uses parallel processing and a KD Tree for faster execution.
 
 ## Author 
 **Peter Chibuikem Idoko**
